@@ -1,0 +1,8 @@
+
+xmonad.hs:443:36: warning: [-Wdeprecations]
+    In the use of ‘docksEventHook’
+    (imported from XMonad.Hooks.ManageDocks):
+    Deprecated: "Use docks instead."
+    |
+443 |                                <+> docksEventHook
+    |                                    ^^^^^^^^^^^^^^

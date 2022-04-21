@@ -79,13 +79,17 @@ myModMask :: KeyMask
 myModMask = mod4Mask        -- Sets modkey to super/windows key
 
 myTerminal :: String
-myTerminal = "kitty" -- Sets default terminal
+myTerminal = "alacritty " -- Sets default terminal
 
 myBrowser :: String
 myBrowser = "librewolf"  -- Sets firefox as browser
 
 myEditor :: String
-myEditor = myTerminal ++ " -e nvim "    -- Sets vim as editor
+myEditor = "emacsclient -c -a 'emacs'"
+-- myEditor = myTerminal ++ " -e nvim "    -- Sets vim as editor
+
+myEmacs :: String
+myEmacs = "emacsclient -c -a 'emacs' "  -- Makes emacs keybindings easier to type
 
 myBorderWidth :: Dimension
 myBorderWidth = 2           -- Sets border width for windows
@@ -101,22 +105,19 @@ windowCount = gets $ Just . show . length . W.integrate' . W.stack . W.workspace
 
 myStartupHook :: X ()
 myStartupHook = do
-    spawnOnce "setxkbmap -layout fr"
-    -- spawnOnce "/usr/local/bin/monitors.sh"
-    -- spawnOnce "xrandr --output DVI-I-0 --mode 1680x1050"
-    -- spawnOnce "xrandr --output DP-1 --mode 1920x1080 --rate 144"
-    -- spawnOnce "xrandr --output DP-1 --primary"
-    -- spawnOnce "xrandr --output DP-1 --left-of DVI-I-0"
-    -- spawnOnce "xrandr --output DVI-I-0 --left-of DP-1"
-    spawnOnce "picom &"
-    spawnOnce "nitrogen --restore &"
-    spawnOnce "nm-applet &"
-    spawnOnce "volumeicon &"
-    spawnOnce "trayer --edge top --align right --widthtype request --padding 6 --SetDockType true --SetPartialStrut true --expand true --transparent true --alpha 0 --tint 0x282c34 --height 22 &"
-    setWMName "LG3D"
-    spawnOnce "conky -c $HOME/.config/conky/Enif/Enif.conf &> /dev/null &"
-    -- spawnOnce "blueman-adapters &"
-    spawnOnce "copyq &"
+  spawnOnce "killall conky"
+  spawnOnce "killall trayer"
+  spawnOnce "picom &"
+  spawnOnce "nitrogen --restore &"
+  spawnOnce "nm-applet &"
+  spawnOnce "volumeicon &"
+  spawnOnce "sleep 2 && trayer --edge top --align right --widthtype request --padding 6 --SetDockType true --SetPartialStrut true --expand true --transparent true --alpha 0 --tint 0x282c34 --height 22 &"
+  setWMName "LG3D"
+  spawnOnce "sleep 2 && conky -c $HOME/.config/conky/Enif/Enif.conf &> /dev/null &"
+  spawnOnce "blueman-trayer &"
+  spawnOnce "cbatticon &"
+  spawnOnce "copyq &"
+  spawnOnce "/usr/bin/emacs --daemon"
 
 myColorizer :: Window -> Bool -> X (String, String)
 myColorizer = colorRangeFromClassName
@@ -213,10 +214,10 @@ myLayoutHook = avoidStruts $ mouseResize $ windowArrange  $ mkToggle (NBFULL ?? 
 
 
 -- myWorkspaces = [" 1 ", " 2 ", " 3 ", " 4 ", " 5 ", " 6 ", " 7 "]
-myWorkspaces = [" web ", " code ", " chat ", " sys ", " vid ", " office ", " cgi "]
+myWorkspaces = [" web ", " code ", " chat ", " sys ", " vid ", " office ", " cgi "] -- ++ (map snd myExtraWorkspaces)
 -- myWorkspaces = [" one ", " two ", " three ", " four ", " five ", " six ", " seven "]
 
-myWorkspaceIndices = M.fromList $ zipWith (,) myWorkspaces [1..] -- (,) == \x y -> (x,y)
+myWorkspaceIndices = M.fromList $ zipWith (,) myWorkspaces [1..9] -- (,) == \x y -> (x,y)
 
 clickable ws = "<action=xdotool key super+"++show i++">"++ws++"</action>"
     where i = fromJust $ M.lookup ws myWorkspaceIndices
@@ -237,7 +238,7 @@ myManageHook = composeAll
      , className =? "pinentry-gtk-2"                --> doFloat
      , className =? "splash"                        --> doFloat
      , className =? "toolbar"                       --> doFloat
-     , className =? "copyq"                       --> doFloat
+     , className =? "copyq"                         --> doFloat
      , title =? "Oracle VM VirtualBox Manager"      --> doFloat
 
   -- Specific apps to appropriate workspace
@@ -247,8 +248,9 @@ myManageHook = composeAll
      , className =? "Chromium"                      --> doShift ( myWorkspaces !! 0 )
      , className =? "Firefox Developer Edition"     --> doShift ( myWorkspaces !! 0 )
      , className =? "Brave-browser"                 --> doShift ( myWorkspaces !! 0 )
+     , className =? "librewolf"                     --> doShift ( myWorkspaces !! 0 )
      -- code editors
-     , className =? "Code"                          --> doShift ( myWorkspaces !! 1 )
+     , className =? "emacs"                         --> doShift ( myWorkspaces !! 1 )
      , className =? "Code - Insiders"               --> doShift ( myWorkspaces !! 1 )
      , className =? "kate"                          --> doShift ( myWorkspaces !! 1 )
      , className =? "Godot"                         --> doShift ( myWorkspaces !! 1 )
@@ -262,12 +264,13 @@ myManageHook = composeAll
 
      -- system apps
      , className =? "systemsettings"                --> doShift ( myWorkspaces !! 3 )
-     , className =? "dolphin"                       --> doShift ( myWorkspaces !! 3 )
+     , className =? "nautilus"                      --> doShift ( myWorkspaces !! 3 )
      , className =? "Gucharmap"                     --> doShift ( myWorkspaces !! 3 )
 
      -- multimedia apps
      , className =? "mpv"                           --> doShift ( myWorkspaces !! 4 )
      , className =? "vlc"                           --> doShift ( myWorkspaces !! 4 )
+     , className =? "spotify"                       --> doShift ( myWorkspaces !! 4 )
 
      -- office and virtualboxes
      , className =? "VirtualBox Manager"            --> doShift ( myWorkspaces !! 5 )
@@ -340,6 +343,8 @@ myKeys =
         , ("M-,", prevScreen)  -- Switch focus
         , ("M-S-<KP_Add>", shiftTo Next nonNSP >> moveTo Next nonNSP)       -- Shifts focused window to next ws
         , ("M-S-<KP_Subtract>", shiftTo Prev nonNSP >> moveTo Prev nonNSP)  -- Shifts focused window to prev ws
+        , ("M-<R>", moveTo Next nonNSP) -- Go to the next non-scratchpad WS
+        , ("M-<L>", moveTo Prev nonNSP) -- Go to the previous non-scratchpad WS
 
     -- Floating windows
         , ("M-f", sendMessage (T.Toggle "floats")) -- Toggles my 'floats' layout
@@ -384,21 +389,47 @@ myKeys =
         , ("M-M1-j", sendMessage MirrorShrink)          -- Shrink vert window width
         , ("M-M1-k", sendMessage MirrorExpand)          -- Expand vert window width
 
-   
+     -- KB_GROUP Emacs (SUPER-e followed by a key)
+        , ("M-e e", spawn (myEmacs ++ ("--eval '(dashboard-refresh-buffer)'")))   -- emacs dashboard
+        , ("M-e b", spawn (myEmacs ++ ("--eval '(ibuffer)'")))   -- list buffers
+        , ("M-e d", spawn (myEmacs ++ ("--eval '(dired nil)'"))) -- dired
+        , ("M-e i", spawn (myEmacs ++ ("--eval '(erc)'")))       -- erc irc client
+        , ("M-e n", spawn (myEmacs ++ ("--eval '(elfeed)'")))    -- elfeed rss
+        , ("M-e s", spawn (myEmacs ++ ("--eval '(eshell)'")))    -- eshell
+        , ("M-e t", spawn (myEmacs ++ ("--eval '(mastodon)'")))  -- mastodon.el
+        , ("M-e v", spawn (myEmacs ++ ("--eval '(+vterm/here nil)'"))) -- vterm if on Doom Emacs
+        , ("M-e w", spawn (myEmacs ++ ("--eval '(doom/window-maximize-buffer(eww \"distro.tube\"))'"))) -- eww browser if on Doom Emacs
+        , ("M-e a", spawn (myEmacs ++ ("--eval '(emms)' --eval '(emms-play-directory-tree \"~/Music/\")'")))
+
+    -- KB_GROUP Multimedia Keys
+        , ("<XF86AudioPlay>", spawn "mocp --play")
+        , ("<XF86AudioPrev>", spawn "mocp --previous")
+        , ("<XF86AudioNext>", spawn "mocp --next")
+        , ("<XF86AudioMute>", spawn "amixer set Master toggle")
+        , ("<XF86AudioLowerVolume>", spawn "amixer set Master 5%- unmute")
+        , ("<XF86AudioRaiseVolume>", spawn "amixer set Master 5%+ unmute")
+        , ("<XF86HomePage>", spawn "qutebrowser https://www.youtube.com/c/DistroTube")
+        , ("<XF86Search>", spawn "dm-websearch")
+        , ("<XF86Mail>", runOrRaise "thunderbird" (resource =? "thunderbird"))
+        , ("<XF86Calculator>", runOrRaise "qalculate-gtk" (resource =? "qalculate-gtk"))
+        , ("<XF86Eject>", spawn "toggleeject")
+        , ("<Print>", spawn "dm-maim")
+        , ("<XF86MonBrightnessUp>", spawn "lux -a 5")
+        , ("<XF86MonBrightnessDown>", spawn "lux -s 5")
+
     -- Controls for mocp music player (SUPER-u followed by a key)
         , ("M-u l", spawn "mocp --next")
         , ("M-u h", spawn "mocp --previous")
         , ("M-u <Space>", spawn "mocp --toggle-pause")
-        ]
-         
-         where nonNSP          = WSIs (return (\ws -> W.tag ws /= "NSP"))
+
+       ]
+                        where nonNSP    = WSIs (return (\ws -> W.tag ws /= "NSP"))
 
 
 main :: IO ()
 main = do
     -- Launching xmobar on monitor
     xmproc0 <- spawnPipe "xmobar ~/.config/xmobar/xmobarrc0"
-    xmproc1 <- spawnPipe "xmobar ~/.config/xmobar/xmobarrc1"
     -- the xmonad, ya know...what the WM is named after!
     xmonad $ ewmh def
         { manageHook = ( isFullscreen --> doFullFloat ) <+> myManageHook <+> manageDocks
@@ -432,4 +463,3 @@ main = do
                         , ppOrder  = \(ws:l:t:ex) -> [ws,l]++ex++[t]
                         }
         } `additionalKeysP` myKeys
-

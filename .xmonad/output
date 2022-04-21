@@ -1,0 +1,1348 @@
+Warning: haddock-interfaces: /usr/share/doc/haskell-fsnotify/html/fsnotify.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-fsnotify/html doesn't exist or isn't a directory
+There are problems in package Glob-0.10.1:
+  Warning: library-dirs: /usr/lib/ghc-9.0.1/site-local/Glob-0.10.1 doesn't exist or isn't a directory
+  Warning: haddock-interfaces: /usr/share/doc/haskell-glob/html/Glob.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-glob/html doesn't exist or isn't a directory
+  import-dirs: /usr/lib/ghc-9.0.1/site-local/Glob-0.10.1 doesn't exist or isn't a directory
+  cannot find any of ["System/FilePath/Glob.hi","System/FilePath/Glob.p_hi","System/FilePath/Glob.dyn_hi"]
+  cannot find any of ["System/FilePath/Glob/Primitive.hi","System/FilePath/Glob/Primitive.p_hi","System/FilePath/Glob/Primitive.dyn_hi"]
+  cannot find any of ["System/FilePath/Glob/Base.hi","System/FilePath/Glob/Base.p_hi","System/FilePath/Glob/Base.dyn_hi"]
+  cannot find any of ["System/FilePath/Glob/Directory.hi","System/FilePath/Glob/Directory.p_hi","System/FilePath/Glob/Directory.dyn_hi"]
+  cannot find any of ["System/FilePath/Glob/Match.hi","System/FilePath/Glob/Match.p_hi","System/FilePath/Glob/Match.dyn_hi"]
+  cannot find any of ["System/FilePath/Glob/Simplify.hi","System/FilePath/Glob/Simplify.p_hi","System/FilePath/Glob/Simplify.dyn_hi"]
+  cannot find any of ["System/FilePath/Glob/Utils.hi","System/FilePath/Glob/Utils.p_hi","System/FilePath/Glob/Utils.dyn_hi"]
+  cannot find any of ["libHSGlob-0.10.1-4n8uI5fOteuBazOEt4V4ba.a","libHSGlob-0.10.1-4n8uI5fOteuBazOEt4V4ba_p.a","libHSGlob-0.10.1-4n8uI5fOteuBazOEt4V4ba-ghc9.0.1.so","libHSGlob-0.10.1-4n8uI5fOteuBazOEt4V4ba-ghc9.0.1.dylib","HSGlob-0.10.1-4n8uI5fOteuBazOEt4V4ba-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-iproute/html/iproute.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-iproute/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/ghc-heap-9.0.1/ghc-heap.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/ghc-heap-9.0.1 doesn't exist or isn't a directory
+There are problems in package comonad-5.0.8:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-comonad/html/comonad.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-comonad/html doesn't exist or isn't a directory
+  cannot find any of ["libHScomonad-5.0.8-58evi5UCybwDowwbZpmmTn.a","libHScomonad-5.0.8-58evi5UCybwDowwbZpmmTn_p.a","libHScomonad-5.0.8-58evi5UCybwDowwbZpmmTn-ghc9.0.1.so","libHScomonad-5.0.8-58evi5UCybwDowwbZpmmTn-ghc9.0.1.dylib","HScomonad-5.0.8-58evi5UCybwDowwbZpmmTn-ghc9.0.1.dll"] on library path
+There are problems in package unix-time-0.4.7:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-unix-time/html/unix-time.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-unix-time/html doesn't exist or isn't a directory
+  cannot find any of ["libHSunix-time-0.4.7-EuMi7YCE6LHLcBiVWc7itR.a","libHSunix-time-0.4.7-EuMi7YCE6LHLcBiVWc7itR_p.a","libHSunix-time-0.4.7-EuMi7YCE6LHLcBiVWc7itR-ghc9.0.1.so","libHSunix-time-0.4.7-EuMi7YCE6LHLcBiVWc7itR-ghc9.0.1.dylib","HSunix-time-0.4.7-EuMi7YCE6LHLcBiVWc7itR-ghc9.0.1.dll"] on library path
+There are problems in package primitive-0.7.2.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-primitive/html/primitive.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-primitive/html doesn't exist or isn't a directory
+  cannot find any of ["libHSprimitive-0.7.2.0-DQiZ1lgcA292S6BuzoCrGU.a","libHSprimitive-0.7.2.0-DQiZ1lgcA292S6BuzoCrGU_p.a","libHSprimitive-0.7.2.0-DQiZ1lgcA292S6BuzoCrGU-ghc9.0.1.so","libHSprimitive-0.7.2.0-DQiZ1lgcA292S6BuzoCrGU-ghc9.0.1.dylib","HSprimitive-0.7.2.0-DQiZ1lgcA292S6BuzoCrGU-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/filepath-1.4.2.1/filepath.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/filepath-1.4.2.1 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-auto-update/html/auto-update.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-auto-update/html doesn't exist or isn't a directory
+There are problems in package these-1.1.1.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-these/html/these.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-these/html doesn't exist or isn't a directory
+  cannot find any of ["libHSthese-1.1.1.1-C3y8XtvlHgULUIgQ4lmEXz.a","libHSthese-1.1.1.1-C3y8XtvlHgULUIgQ4lmEXz_p.a","libHSthese-1.1.1.1-C3y8XtvlHgULUIgQ4lmEXz-ghc9.0.1.so","libHSthese-1.1.1.1-C3y8XtvlHgULUIgQ4lmEXz-ghc9.0.1.dylib","HSthese-1.1.1.1-C3y8XtvlHgULUIgQ4lmEXz-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-infer-license/html/infer-license.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-infer-license/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-attoparsec-iso8601/html/attoparsec-iso8601.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-attoparsec-iso8601/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-type-equality/html/type-equality.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-type-equality/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-pretty-hex/html/pretty-hex.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-pretty-hex/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-ansi-terminal/html/ansi-terminal.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ansi-terminal/html doesn't exist or isn't a directory
+There are problems in package conduit-extra-1.3.5:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-conduit-extra/html/conduit-extra.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-conduit-extra/html doesn't exist or isn't a directory
+  cannot find any of ["libHSconduit-extra-1.3.5-5VetjBP4pNqF4oll3kEeyA.a","libHSconduit-extra-1.3.5-5VetjBP4pNqF4oll3kEeyA_p.a","libHSconduit-extra-1.3.5-5VetjBP4pNqF4oll3kEeyA-ghc9.0.1.so","libHSconduit-extra-1.3.5-5VetjBP4pNqF4oll3kEeyA-ghc9.0.1.dylib","HSconduit-extra-1.3.5-5VetjBP4pNqF4oll3kEeyA-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/stm-2.5.0.0/stm.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/stm-2.5.0.0 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/integer-gmp-1.1/integer-gmp.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/integer-gmp-1.1 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-persistent-sqlite/html/persistent-sqlite.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-persistent-sqlite/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-project-template/html/project-template.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-project-template/html doesn't exist or isn't a directory
+There are problems in package transformers-compat-0.7:
+  Warning: library-dirs: /usr/lib/ghc-9.0.1/site-local/transformers-compat-0.7 doesn't exist or isn't a directory
+  Warning: haddock-interfaces: /usr/share/doc/haskell-transformers-compat/html/transformers-compat.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-transformers-compat/html doesn't exist or isn't a directory
+  import-dirs: /usr/lib/ghc-9.0.1/site-local/transformers-compat-0.7 doesn't exist or isn't a directory
+  cannot find any of ["Control/Monad/Trans/Instances.hi","Control/Monad/Trans/Instances.p_hi","Control/Monad/Trans/Instances.dyn_hi"]
+  cannot find any of ["Data/Functor/Classes/Generic.hi","Data/Functor/Classes/Generic.p_hi","Data/Functor/Classes/Generic.dyn_hi"]
+  cannot find any of ["Data/Functor/Classes/Generic/Internal.hi","Data/Functor/Classes/Generic/Internal.p_hi","Data/Functor/Classes/Generic/Internal.dyn_hi"]
+  cannot find any of ["Paths_transformers_compat.hi","Paths_transformers_compat.p_hi","Paths_transformers_compat.dyn_hi"]
+  cannot find any of ["libHStransformers-compat-0.7-G46eeHH0vduAN6T7RnrFpu.a","libHStransformers-compat-0.7-G46eeHH0vduAN6T7RnrFpu_p.a","libHStransformers-compat-0.7-G46eeHH0vduAN6T7RnrFpu-ghc9.0.1.so","libHStransformers-compat-0.7-G46eeHH0vduAN6T7RnrFpu-ghc9.0.1.dylib","HStransformers-compat-0.7-G46eeHH0vduAN6T7RnrFpu-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-rio-orphans/html/rio-orphans.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-rio-orphans/html doesn't exist or isn't a directory
+There are problems in package base64-bytestring-1.2.1.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-base64-bytestring/html/base64-bytestring.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-base64-bytestring/html doesn't exist or isn't a directory
+  cannot find any of ["libHSbase64-bytestring-1.2.1.0-GF7RNKVUXzr7ftO0CMZbPs.a","libHSbase64-bytestring-1.2.1.0-GF7RNKVUXzr7ftO0CMZbPs_p.a","libHSbase64-bytestring-1.2.1.0-GF7RNKVUXzr7ftO0CMZbPs-ghc9.0.1.so","libHSbase64-bytestring-1.2.1.0-GF7RNKVUXzr7ftO0CMZbPs-ghc9.0.1.dylib","HSbase64-bytestring-1.2.1.0-GF7RNKVUXzr7ftO0CMZbPs-ghc9.0.1.dll"] on library path
+There are problems in package extra-1.7.10:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-extra/html/extra.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-extra/html doesn't exist or isn't a directory
+  cannot find any of ["libHSextra-1.7.10-3tDBYCQCoM76FUUqSWK3rB.a","libHSextra-1.7.10-3tDBYCQCoM76FUUqSWK3rB_p.a","libHSextra-1.7.10-3tDBYCQCoM76FUUqSWK3rB-ghc9.0.1.so","libHSextra-1.7.10-3tDBYCQCoM76FUUqSWK3rB-ghc9.0.1.dylib","HSextra-1.7.10-3tDBYCQCoM76FUUqSWK3rB-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-path-io/html/path-io.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-path-io/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/exceptions-0.10.4/exceptions.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/exceptions-0.10.4 doesn't exist or isn't a directory
+There are problems in package zip-archive-0.4.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-zip-archive/html/zip-archive.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-zip-archive/html doesn't exist or isn't a directory
+  cannot find any of ["libHSzip-archive-0.4.1-3PRIiqRTkDY2bOkq9S2KhG.a","libHSzip-archive-0.4.1-3PRIiqRTkDY2bOkq9S2KhG_p.a","libHSzip-archive-0.4.1-3PRIiqRTkDY2bOkq9S2KhG-ghc9.0.1.so","libHSzip-archive-0.4.1-3PRIiqRTkDY2bOkq9S2KhG-ghc9.0.1.dylib","HSzip-archive-0.4.1-3PRIiqRTkDY2bOkq9S2KhG-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/xhtml-3000.2.2.1/xhtml.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/xhtml-3000.2.2.1 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-integer-logarithms/html/integer-logarithms.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-integer-logarithms/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-unliftio-core/html/unliftio-core.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-unliftio-core/html doesn't exist or isn't a directory
+There are problems in package constraints-0.13:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-constraints/html/constraints.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-constraints/html doesn't exist or isn't a directory
+  cannot find any of ["libHSconstraints-0.13-5gsZ2IPGHbi7J7y6taH6F3.a","libHSconstraints-0.13-5gsZ2IPGHbi7J7y6taH6F3_p.a","libHSconstraints-0.13-5gsZ2IPGHbi7J7y6taH6F3-ghc9.0.1.so","libHSconstraints-0.13-5gsZ2IPGHbi7J7y6taH6F3-ghc9.0.1.dylib","HSconstraints-0.13-5gsZ2IPGHbi7J7y6taH6F3-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-annotated-wl-pprint/html/annotated-wl-pprint.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-annotated-wl-pprint/html doesn't exist or isn't a directory
+There are problems in package clock-0.8.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-clock/html/clock.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-clock/html doesn't exist or isn't a directory
+  cannot find any of ["libHSclock-0.8.2-JdlrNDqxbBfCg8J7YevXg6.a","libHSclock-0.8.2-JdlrNDqxbBfCg8J7YevXg6_p.a","libHSclock-0.8.2-JdlrNDqxbBfCg8J7YevXg6-ghc9.0.1.so","libHSclock-0.8.2-JdlrNDqxbBfCg8J7YevXg6-ghc9.0.1.dylib","HSclock-0.8.2-JdlrNDqxbBfCg8J7YevXg6-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/hpc-0.6.1.0/hpc.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/hpc-0.6.1.0 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-file-embed/html/file-embed.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-file-embed/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hinotify/html/hinotify.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hinotify/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hslua-module-text/html/hslua-module-text.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hslua-module-text/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-attoparsec/html/attoparsec.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-attoparsec/html doesn't exist or isn't a directory
+There are problems in package typed-process-0.2.6.2:
+  Warning: library-dirs: /usr/lib/ghc-9.0.1/site-local/typed-process-0.2.6.2 doesn't exist or isn't a directory
+  Warning: haddock-interfaces: /usr/share/doc/haskell-typed-process/html/typed-process.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-typed-process/html doesn't exist or isn't a directory
+  import-dirs: /usr/lib/ghc-9.0.1/site-local/typed-process-0.2.6.2 doesn't exist or isn't a directory
+  cannot find any of ["System/Process/Typed.hi","System/Process/Typed.p_hi","System/Process/Typed.dyn_hi"]
+  cannot find any of ["System/Process/Typed/Internal.hi","System/Process/Typed/Internal.p_hi","System/Process/Typed/Internal.dyn_hi"]
+  cannot find any of ["Paths_typed_process.hi","Paths_typed_process.p_hi","Paths_typed_process.dyn_hi"]
+  cannot find any of ["libHStyped-process-0.2.6.2-92guApp3htt5EGXLqSsfsA.a","libHStyped-process-0.2.6.2-92guApp3htt5EGXLqSsfsA_p.a","libHStyped-process-0.2.6.2-92guApp3htt5EGXLqSsfsA-ghc9.0.1.so","libHStyped-process-0.2.6.2-92guApp3htt5EGXLqSsfsA-ghc9.0.1.dylib","HStyped-process-0.2.6.2-92guApp3htt5EGXLqSsfsA-ghc9.0.1.dll"] on library path
+There are problems in package distributive-0.6.2.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-distributive/html/distributive.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-distributive/html doesn't exist or isn't a directory
+  cannot find any of ["libHSdistributive-0.6.2.1-2xxEYau8DaE6Rvfo8JNYU.a","libHSdistributive-0.6.2.1-2xxEYau8DaE6Rvfo8JNYU_p.a","libHSdistributive-0.6.2.1-2xxEYau8DaE6Rvfo8JNYU-ghc9.0.1.so","libHSdistributive-0.6.2.1-2xxEYau8DaE6Rvfo8JNYU-ghc9.0.1.dylib","HSdistributive-0.6.2.1-2xxEYau8DaE6Rvfo8JNYU-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-http-client-tls/html/http-client-tls.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-http-client-tls/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-th-abstraction/html/th-abstraction.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-th-abstraction/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-cookie/html/cookie.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-cookie/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-path-pieces/html/path-pieces.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-path-pieces/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-th-reify-many/html/th-reify-many.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-th-reify-many/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-sha/html/SHA.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-sha/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-text-icu/html/text-icu.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-text-icu/html doesn't exist or isn't a directory
+There are problems in package zlib-0.6.2.3:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-zlib/html/zlib.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-zlib/html doesn't exist or isn't a directory
+  cannot find any of ["libHSzlib-0.6.2.3-72G9KJNhtRc8XRXJwRL5Ef.a","libHSzlib-0.6.2.3-72G9KJNhtRc8XRXJwRL5Ef_p.a","libHSzlib-0.6.2.3-72G9KJNhtRc8XRXJwRL5Ef-ghc9.0.1.so","libHSzlib-0.6.2.3-72G9KJNhtRc8XRXJwRL5Ef-ghc9.0.1.dylib","HSzlib-0.6.2.3-72G9KJNhtRc8XRXJwRL5Ef-ghc9.0.1.dll"] on library path
+There are problems in package pem-0.2.4:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-pem/html/pem.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-pem/html doesn't exist or isn't a directory
+  cannot find any of ["libHSpem-0.2.4-4GedUobbZgQBHMJ7Fwa788.a","libHSpem-0.2.4-4GedUobbZgQBHMJ7Fwa788_p.a","libHSpem-0.2.4-4GedUobbZgQBHMJ7Fwa788-ghc9.0.1.so","libHSpem-0.2.4-4GedUobbZgQBHMJ7Fwa788-ghc9.0.1.dylib","HSpem-0.2.4-4GedUobbZgQBHMJ7Fwa788-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-indexed-traversable-instances/html/indexed-traversable-instances.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-indexed-traversable-instances/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-persistent/html/persistent.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-persistent/html doesn't exist or isn't a directory
+There are problems in package tls-1.5.5:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-tls/html/tls.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-tls/html doesn't exist or isn't a directory
+  cannot find any of ["libHStls-1.5.5-J3DEZSS5z08E2e16jfcrN.a","libHStls-1.5.5-J3DEZSS5z08E2e16jfcrN_p.a","libHStls-1.5.5-J3DEZSS5z08E2e16jfcrN-ghc9.0.1.so","libHStls-1.5.5-J3DEZSS5z08E2e16jfcrN-ghc9.0.1.dylib","HStls-1.5.5-J3DEZSS5z08E2e16jfcrN-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/transformers-0.5.6.2/transformers.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/transformers-0.5.6.2 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/libiserv-9.0.1/libiserv.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/libiserv-9.0.1 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-easy-file/html/easy-file.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-easy-file/html doesn't exist or isn't a directory
+There are problems in package uuid-types-1.0.5:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-uuid-types/html/uuid-types.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-uuid-types/html doesn't exist or isn't a directory
+  cannot find any of ["libHSuuid-types-1.0.5-4Ljorik3VAvG1OqDInLjUD.a","libHSuuid-types-1.0.5-4Ljorik3VAvG1OqDInLjUD_p.a","libHSuuid-types-1.0.5-4Ljorik3VAvG1OqDInLjUD-ghc9.0.1.so","libHSuuid-types-1.0.5-4Ljorik3VAvG1OqDInLjUD-ghc9.0.1.dylib","HSuuid-types-1.0.5-4Ljorik3VAvG1OqDInLjUD-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-text-conversions/html/text-conversions.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-text-conversions/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-rio-prettyprint/html/rio-prettyprint.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-rio-prettyprint/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-skylighting/html/skylighting.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-skylighting/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-setlocale/html/setlocale.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-setlocale/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-blaze-markup/html/blaze-markup.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-blaze-markup/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-tagsoup/html/tagsoup.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-tagsoup/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-microlens/html/microlens.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-microlens/html doesn't exist or isn't a directory
+There are problems in package blaze-html-0.9.1.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-blaze-html/html/blaze-html.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-blaze-html/html doesn't exist or isn't a directory
+  cannot find any of ["libHSblaze-html-0.9.1.2-LSMqXlgq2DDHc3OlwhOnTC.a","libHSblaze-html-0.9.1.2-LSMqXlgq2DDHc3OlwhOnTC_p.a","libHSblaze-html-0.9.1.2-LSMqXlgq2DDHc3OlwhOnTC-ghc9.0.1.so","libHSblaze-html-0.9.1.2-LSMqXlgq2DDHc3OlwhOnTC-ghc9.0.1.dylib","HSblaze-html-0.9.1.2-LSMqXlgq2DDHc3OlwhOnTC-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-data-fix/html/data-fix.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-data-fix/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hpack/html/hpack.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hpack/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-contravariant/html/contravariant.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-contravariant/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/pretty-1.1.3.6/pretty.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/pretty-1.1.3.6 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/pandoc/html/pandoc.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/pandoc/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/time-1.9.3/time.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/time-1.9.3 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-juicypixels/html/JuicyPixels.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-juicypixels/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-citeproc/html/citeproc.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-citeproc/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-bifunctors/html/bifunctors.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-bifunctors/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-optparse-generic/html/optparse-generic.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-optparse-generic/html doesn't exist or isn't a directory
+There are problems in package monad-logger-0.3.36:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-monad-logger/html/monad-logger.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-monad-logger/html doesn't exist or isn't a directory
+  cannot find any of ["libHSmonad-logger-0.3.36-AVe6EKUgVRz4RbmHz7UVak.a","libHSmonad-logger-0.3.36-AVe6EKUgVRz4RbmHz7UVak_p.a","libHSmonad-logger-0.3.36-AVe6EKUgVRz4RbmHz7UVak-ghc9.0.1.so","libHSmonad-logger-0.3.36-AVe6EKUgVRz4RbmHz7UVak-ghc9.0.1.dylib","HSmonad-logger-0.3.36-AVe6EKUgVRz4RbmHz7UVak-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-either/html/either.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-either/html doesn't exist or isn't a directory
+There are problems in package unicode-transforms-0.3.8:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-unicode-transforms/html/unicode-transforms.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-unicode-transforms/html doesn't exist or isn't a directory
+  cannot find any of ["libHSunicode-transforms-0.3.8-7yEG2dJEwV0Gnu4N3gigcP.a","libHSunicode-transforms-0.3.8-7yEG2dJEwV0Gnu4N3gigcP_p.a","libHSunicode-transforms-0.3.8-7yEG2dJEwV0Gnu4N3gigcP-ghc9.0.1.so","libHSunicode-transforms-0.3.8-7yEG2dJEwV0Gnu4N3gigcP-ghc9.0.1.dylib","HSunicode-transforms-0.3.8-7yEG2dJEwV0Gnu4N3gigcP-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-parallel/html/parallel.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-parallel/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-cryptonite/html/cryptonite.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-cryptonite/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hslua-module-system/html/hslua-module-system.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hslua-module-system/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/stack/html/stack.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/stack/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-random/html/random.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-random/html doesn't exist or isn't a directory
+There are problems in package resourcet-1.2.4.3:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-resourcet/html/resourcet.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-resourcet/html doesn't exist or isn't a directory
+  cannot find any of ["libHSresourcet-1.2.4.3-53FYjKR289QGvVsOPGH1yC.a","libHSresourcet-1.2.4.3-53FYjKR289QGvVsOPGH1yC_p.a","libHSresourcet-1.2.4.3-53FYjKR289QGvVsOPGH1yC-ghc9.0.1.so","libHSresourcet-1.2.4.3-53FYjKR289QGvVsOPGH1yC-ghc9.0.1.dylib","HSresourcet-1.2.4.3-53FYjKR289QGvVsOPGH1yC-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-doclayout/html/doclayout.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-doclayout/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-blaze-builder/html/blaze-builder.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-blaze-builder/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-unicode-collation/html/unicode-collation.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-unicode-collation/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-http-client/html/http-client.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-http-client/html doesn't exist or isn't a directory
+There are problems in package conduit-1.3.4.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-conduit/html/conduit.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-conduit/html doesn't exist or isn't a directory
+  cannot find any of ["libHSconduit-1.3.4.2-3a4oLt2zoluJkPoJvBjFCf.a","libHSconduit-1.3.4.2-3a4oLt2zoluJkPoJvBjFCf_p.a","libHSconduit-1.3.4.2-3a4oLt2zoluJkPoJvBjFCf-ghc9.0.1.so","libHSconduit-1.3.4.2-3a4oLt2zoluJkPoJvBjFCf-ghc9.0.1.dylib","HSconduit-1.3.4.2-3a4oLt2zoluJkPoJvBjFCf-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-silently/html/silently.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-silently/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-syb/html/syb.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-syb/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-constraints/html/constraints.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-constraints/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-clock/html/clock.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-clock/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/ghc-compact-0.1.0.0/ghc-compact.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/ghc-compact-0.1.0.0 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/terminfo-0.4.1.4/terminfo.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/terminfo-0.4.1.4 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-cryptonite-conduit/html/cryptonite-conduit.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-cryptonite-conduit/html doesn't exist or isn't a directory
+There are problems in package dlist-1.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-dlist/html/dlist.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-dlist/html doesn't exist or isn't a directory
+  cannot find any of ["libHSdlist-1.0-BmQe4lx0gldHtaeQvhsVhJ.a","libHSdlist-1.0-BmQe4lx0gldHtaeQvhsVhJ_p.a","libHSdlist-1.0-BmQe4lx0gldHtaeQvhsVhJ-ghc9.0.1.so","libHSdlist-1.0-BmQe4lx0gldHtaeQvhsVhJ-ghc9.0.1.dylib","HSdlist-1.0-BmQe4lx0gldHtaeQvhsVhJ-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-http-api-data/html/http-api-data.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-http-api-data/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-filelock/html/filelock.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-filelock/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-cryptohash-sha256/html/cryptohash-sha256.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-cryptohash-sha256/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-call-stack/html/call-stack.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-call-stack/html doesn't exist or isn't a directory
+There are problems in package optparse-simple-0.1.1.4:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-optparse-simple/html/optparse-simple.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-optparse-simple/html doesn't exist or isn't a directory
+  cannot find any of ["libHSoptparse-simple-0.1.1.4-DTReYM6us0aFE8bt13A8tC.a","libHSoptparse-simple-0.1.1.4-DTReYM6us0aFE8bt13A8tC_p.a","libHSoptparse-simple-0.1.1.4-DTReYM6us0aFE8bt13A8tC-ghc9.0.1.so","libHSoptparse-simple-0.1.1.4-DTReYM6us0aFE8bt13A8tC-ghc9.0.1.dylib","HSoptparse-simple-0.1.1.4-DTReYM6us0aFE8bt13A8tC-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-lukko/html/lukko.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-lukko/html doesn't exist or isn't a directory
+There are problems in package githash-0.1.6.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-githash/html/githash.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-githash/html doesn't exist or isn't a directory
+  cannot find any of ["libHSgithash-0.1.6.2-LdlnY5db3C18dc86eLFDlH.a","libHSgithash-0.1.6.2-LdlnY5db3C18dc86eLFDlH_p.a","libHSgithash-0.1.6.2-LdlnY5db3C18dc86eLFDlH-ghc9.0.1.so","libHSgithash-0.1.6.2-LdlnY5db3C18dc86eLFDlH-ghc9.0.1.dylib","HSgithash-0.1.6.2-LdlnY5db3C18dc86eLFDlH-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-th-lift/html/th-lift.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-th-lift/html doesn't exist or isn't a directory
+There are problems in package rio-0.1.21.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-rio/html/rio.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-rio/html doesn't exist or isn't a directory
+  cannot find any of ["libHSrio-0.1.21.0-BgNo6BiWn7XIG72Z6G8iqb.a","libHSrio-0.1.21.0-BgNo6BiWn7XIG72Z6G8iqb_p.a","libHSrio-0.1.21.0-BgNo6BiWn7XIG72Z6G8iqb-ghc9.0.1.so","libHSrio-0.1.21.0-BgNo6BiWn7XIG72Z6G8iqb-ghc9.0.1.dylib","HSrio-0.1.21.0-BgNo6BiWn7XIG72Z6G8iqb-ghc9.0.1.dll"] on library path
+There are problems in package http-types-0.12.3:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-http-types/html/http-types.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-http-types/html doesn't exist or isn't a directory
+  cannot find any of ["libHShttp-types-0.12.3-GbuqI8dbngCJpBlxNWvblX.a","libHShttp-types-0.12.3-GbuqI8dbngCJpBlxNWvblX_p.a","libHShttp-types-0.12.3-GbuqI8dbngCJpBlxNWvblX-ghc9.0.1.so","libHShttp-types-0.12.3-GbuqI8dbngCJpBlxNWvblX-ghc9.0.1.dylib","HShttp-types-0.12.3-GbuqI8dbngCJpBlxNWvblX-ghc9.0.1.dll"] on library path
+There are problems in package rio-prettyprint-0.1.1.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-rio-prettyprint/html/rio-prettyprint.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-rio-prettyprint/html doesn't exist or isn't a directory
+  cannot find any of ["libHSrio-prettyprint-0.1.1.0-IvSvRveC61QtqL4WRGtJ5.a","libHSrio-prettyprint-0.1.1.0-IvSvRveC61QtqL4WRGtJ5_p.a","libHSrio-prettyprint-0.1.1.0-IvSvRveC61QtqL4WRGtJ5-ghc9.0.1.so","libHSrio-prettyprint-0.1.1.0-IvSvRveC61QtqL4WRGtJ5-ghc9.0.1.dylib","HSrio-prettyprint-0.1.1.0-IvSvRveC61QtqL4WRGtJ5-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-monad-control/html/monad-control.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-monad-control/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-void/html/void.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-void/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-libyaml/html/libyaml.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-libyaml/html doesn't exist or isn't a directory
+There are problems in package tar-0.5.1.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-tar/html/tar.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-tar/html doesn't exist or isn't a directory
+  cannot find any of ["libHStar-0.5.1.1-Fx8alHB34KHLCqrYezkkNk.a","libHStar-0.5.1.1-Fx8alHB34KHLCqrYezkkNk_p.a","libHStar-0.5.1.1-Fx8alHB34KHLCqrYezkkNk-ghc9.0.1.so","libHStar-0.5.1.1-Fx8alHB34KHLCqrYezkkNk-ghc9.0.1.dylib","HStar-0.5.1.1-Fx8alHB34KHLCqrYezkkNk-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/binary-0.8.8.0/binary.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/binary-0.8.8.0 doesn't exist or isn't a directory
+There are problems in package socks-0.6.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-socks/html/socks.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-socks/html doesn't exist or isn't a directory
+  cannot find any of ["libHSsocks-0.6.1-Ip7wwAd39nIB22n6V7raYU.a","libHSsocks-0.6.1-Ip7wwAd39nIB22n6V7raYU_p.a","libHSsocks-0.6.1-Ip7wwAd39nIB22n6V7raYU-ghc9.0.1.so","libHSsocks-0.6.1-Ip7wwAd39nIB22n6V7raYU-ghc9.0.1.dylib","HSsocks-0.6.1-Ip7wwAd39nIB22n6V7raYU-ghc9.0.1.dll"] on library path
+There are problems in package lifted-async-0.10.2.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-lifted-async/html/lifted-async.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-lifted-async/html doesn't exist or isn't a directory
+  cannot find any of ["libHSlifted-async-0.10.2.1-HLm4nycYwJWKe3VL5webJ4.a","libHSlifted-async-0.10.2.1-HLm4nycYwJWKe3VL5webJ4_p.a","libHSlifted-async-0.10.2.1-HLm4nycYwJWKe3VL5webJ4-ghc9.0.1.so","libHSlifted-async-0.10.2.1-HLm4nycYwJWKe3VL5webJ4-ghc9.0.1.dylib","HSlifted-async-0.10.2.1-HLm4nycYwJWKe3VL5webJ4-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-retry/html/retry.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-retry/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-typed-process/html/typed-process.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-typed-process/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/text-1.2.4.1/text.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/text-1.2.4.1 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/parsec-3.1.14.0/parsec.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/parsec-3.1.14.0 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-tls/html/tls.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-tls/html doesn't exist or isn't a directory
+There are problems in package fast-logger-3.0.5:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-fast-logger/html/fast-logger.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-fast-logger/html doesn't exist or isn't a directory
+  cannot find any of ["libHSfast-logger-3.0.5-8WE077AyZaB4w4u1167Moe.a","libHSfast-logger-3.0.5-8WE077AyZaB4w4u1167Moe_p.a","libHSfast-logger-3.0.5-8WE077AyZaB4w4u1167Moe-ghc9.0.1.so","libHSfast-logger-3.0.5-8WE077AyZaB4w4u1167Moe-ghc9.0.1.dylib","HSfast-logger-3.0.5-8WE077AyZaB4w4u1167Moe-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-safe-exceptions/html/safe-exceptions.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-safe-exceptions/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-commonmark/html/commonmark.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-commonmark/html doesn't exist or isn't a directory
+There are problems in package base-orphans-0.8.4:
+  Warning: library-dirs: /usr/lib/ghc-9.0.1/site-local/base-orphans-0.8.4 doesn't exist or isn't a directory
+  Warning: haddock-interfaces: /usr/share/doc/haskell-base-orphans/html/base-orphans.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-base-orphans/html doesn't exist or isn't a directory
+  import-dirs: /usr/lib/ghc-9.0.1/site-local/base-orphans-0.8.4 doesn't exist or isn't a directory
+  cannot find any of ["Data/Orphans.hi","Data/Orphans.p_hi","Data/Orphans.dyn_hi"]
+  cannot find any of ["Data/Orphans/Prelude.hi","Data/Orphans/Prelude.p_hi","Data/Orphans/Prelude.dyn_hi"]
+  cannot find any of ["libHSbase-orphans-0.8.4-7HXGrYvuRnN62MKHDhd51W.a","libHSbase-orphans-0.8.4-7HXGrYvuRnN62MKHDhd51W_p.a","libHSbase-orphans-0.8.4-7HXGrYvuRnN62MKHDhd51W-ghc9.0.1.so","libHSbase-orphans-0.8.4-7HXGrYvuRnN62MKHDhd51W-ghc9.0.1.dylib","HSbase-orphans-0.8.4-7HXGrYvuRnN62MKHDhd51W-ghc9.0.1.dll"] on library path
+There are problems in package cryptonite-0.29:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-cryptonite/html/cryptonite.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-cryptonite/html doesn't exist or isn't a directory
+  cannot find any of ["libHScryptonite-0.29-9t1m9WkRw4NHt6hLWOfmFh.a","libHScryptonite-0.29-9t1m9WkRw4NHt6hLWOfmFh_p.a","libHScryptonite-0.29-9t1m9WkRw4NHt6hLWOfmFh-ghc9.0.1.so","libHScryptonite-0.29-9t1m9WkRw4NHt6hLWOfmFh-ghc9.0.1.dylib","HScryptonite-0.29-9t1m9WkRw4NHt6hLWOfmFh-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-unicode-data/html/unicode-data.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-unicode-data/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-appar/html/appar.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-appar/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-network/html/network.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-network/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-asn1-encoding/html/asn1-encoding.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-asn1-encoding/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-only/html/Only.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-only/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-emojis/html/emojis.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-emojis/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-aeson/html/aeson.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-aeson/html doesn't exist or isn't a directory
+There are problems in package hackage-security-0.6.0.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hackage-security/html/hackage-security.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hackage-security/html doesn't exist or isn't a directory
+  dependency "cryptohash-sha256-0.11.102.0-j2bEMbyYBaEFHTWYSod4G" doesn't exist
+  cannot find any of ["libHShackage-security-0.6.0.1-KrJIyVtUDwaD2hXuU86bcg.a","libHShackage-security-0.6.0.1-KrJIyVtUDwaD2hXuU86bcg_p.a","libHShackage-security-0.6.0.1-KrJIyVtUDwaD2hXuU86bcg-ghc9.0.1.so","libHShackage-security-0.6.0.1-KrJIyVtUDwaD2hXuU86bcg-ghc9.0.1.dylib","HShackage-security-0.6.0.1-KrJIyVtUDwaD2hXuU86bcg-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-regex-applicative/html/regex-applicative.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-regex-applicative/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-blaze-html/html/blaze-html.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-blaze-html/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-uniplate/html/uniplate.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-uniplate/html doesn't exist or isn't a directory
+There are problems in package base16-bytestring-1.0.1.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-base16-bytestring/html/base16-bytestring.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-base16-bytestring/html doesn't exist or isn't a directory
+  cannot find any of ["libHSbase16-bytestring-1.0.1.0-HEKD2Oo8vtLxC8G87I8MD.a","libHSbase16-bytestring-1.0.1.0-HEKD2Oo8vtLxC8G87I8MD_p.a","libHSbase16-bytestring-1.0.1.0-HEKD2Oo8vtLxC8G87I8MD-ghc9.0.1.so","libHSbase16-bytestring-1.0.1.0-HEKD2Oo8vtLxC8G87I8MD-ghc9.0.1.dylib","HSbase16-bytestring-1.0.1.0-HEKD2Oo8vtLxC8G87I8MD-ghc9.0.1.dll"] on library path
+There are problems in package random-1.2.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-random/html/random.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-random/html doesn't exist or isn't a directory
+  cannot find any of ["libHSrandom-1.2.1-GTaXQEmVKZP2pnqal7ZY4e.a","libHSrandom-1.2.1-GTaXQEmVKZP2pnqal7ZY4e_p.a","libHSrandom-1.2.1-GTaXQEmVKZP2pnqal7ZY4e-ghc9.0.1.so","libHSrandom-1.2.1-GTaXQEmVKZP2pnqal7ZY4e-ghc9.0.1.dylib","HSrandom-1.2.1-GTaXQEmVKZP2pnqal7ZY4e-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-invariant/html/invariant.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-invariant/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hi-file-parser/html/hi-file-parser.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hi-file-parser/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hslua/html/hslua.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hslua/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-byteorder/html/byteorder.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-byteorder/html doesn't exist or isn't a directory
+There are problems in package splitmix-0.1.0.3:
+  Warning: library-dirs: /usr/lib/ghc-9.0.1/site-local/splitmix-0.1.0.3 doesn't exist or isn't a directory
+  Warning: haddock-interfaces: /usr/share/doc/haskell-splitmix/html/splitmix.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-splitmix/html doesn't exist or isn't a directory
+  import-dirs: /usr/lib/ghc-9.0.1/site-local/splitmix-0.1.0.3 doesn't exist or isn't a directory
+  cannot find any of ["System/Random/SplitMix.hi","System/Random/SplitMix.p_hi","System/Random/SplitMix.dyn_hi"]
+  cannot find any of ["System/Random/SplitMix32.hi","System/Random/SplitMix32.p_hi","System/Random/SplitMix32.dyn_hi"]
+  cannot find any of ["Data/Bits/Compat.hi","Data/Bits/Compat.p_hi","Data/Bits/Compat.dyn_hi"]
+  cannot find any of ["System/Random/SplitMix/Init.hi","System/Random/SplitMix/Init.p_hi","System/Random/SplitMix/Init.dyn_hi"]
+  cannot find any of ["libHSsplitmix-0.1.0.3-49Ie5kvB1IC7LoUpVIE4P9.a","libHSsplitmix-0.1.0.3-49Ie5kvB1IC7LoUpVIE4P9_p.a","libHSsplitmix-0.1.0.3-49Ie5kvB1IC7LoUpVIE4P9-ghc9.0.1.so","libHSsplitmix-0.1.0.3-49Ie5kvB1IC7LoUpVIE4P9-ghc9.0.1.dylib","HSsplitmix-0.1.0.3-49Ie5kvB1IC7LoUpVIE4P9-ghc9.0.1.dll"] on library path
+There are problems in package http-client-tls-0.3.5.3:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-http-client-tls/html/http-client-tls.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-http-client-tls/html doesn't exist or isn't a directory
+  cannot find any of ["libHShttp-client-tls-0.3.5.3-1eUOaCFAZEu4XD8Ub2Td2W.a","libHShttp-client-tls-0.3.5.3-1eUOaCFAZEu4XD8Ub2Td2W_p.a","libHShttp-client-tls-0.3.5.3-1eUOaCFAZEu4XD8Ub2Td2W-ghc9.0.1.so","libHShttp-client-tls-0.3.5.3-1eUOaCFAZEu4XD8Ub2Td2W-ghc9.0.1.dylib","HShttp-client-tls-0.3.5.3-1eUOaCFAZEu4XD8Ub2Td2W-ghc9.0.1.dll"] on library path
+There are problems in package path-io-1.6.3:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-path-io/html/path-io.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-path-io/html doesn't exist or isn't a directory
+  cannot find any of ["libHSpath-io-1.6.3-4vJDzMvRKwrDDQc5YjsSMA.a","libHSpath-io-1.6.3-4vJDzMvRKwrDDQc5YjsSMA_p.a","libHSpath-io-1.6.3-4vJDzMvRKwrDDQc5YjsSMA-ghc9.0.1.so","libHSpath-io-1.6.3-4vJDzMvRKwrDDQc5YjsSMA-ghc9.0.1.dylib","HSpath-io-1.6.3-4vJDzMvRKwrDDQc5YjsSMA-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-haddock-library/html/haddock-library.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-haddock-library/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-regex-posix/html/regex-posix.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-regex-posix/html doesn't exist or isn't a directory
+There are problems in package asn1-parse-0.9.5:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-asn1-parse/html/asn1-parse.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-asn1-parse/html doesn't exist or isn't a directory
+  cannot find any of ["libHSasn1-parse-0.9.5-8zSEufMFFAk3upSzkc32hb.a","libHSasn1-parse-0.9.5-8zSEufMFFAk3upSzkc32hb_p.a","libHSasn1-parse-0.9.5-8zSEufMFFAk3upSzkc32hb-ghc9.0.1.so","libHSasn1-parse-0.9.5-8zSEufMFFAk3upSzkc32hb-ghc9.0.1.dylib","HSasn1-parse-0.9.5-8zSEufMFFAk3upSzkc32hb-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-dlist/html/dlist.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-dlist/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-quickcheck/html/QuickCheck.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-quickcheck/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-data-default-instances-dlist/html/data-default-instances-dlist.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-data-default-instances-dlist/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-adjunctions/html/adjunctions.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-adjunctions/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-mono-traversable/html/mono-traversable.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-mono-traversable/html doesn't exist or isn't a directory
+There are problems in package base-compat-batteries-0.11.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-base-compat-batteries/html/base-compat-batteries.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-base-compat-batteries/html doesn't exist or isn't a directory
+  cannot find any of ["libHSbase-compat-batteries-0.11.2-E3rv2c7d5BGADgmg3oB20Z.a","libHSbase-compat-batteries-0.11.2-E3rv2c7d5BGADgmg3oB20Z_p.a","libHSbase-compat-batteries-0.11.2-E3rv2c7d5BGADgmg3oB20Z-ghc9.0.1.so","libHSbase-compat-batteries-0.11.2-E3rv2c7d5BGADgmg3oB20Z-ghc9.0.1.dylib","HSbase-compat-batteries-0.11.2-E3rv2c7d5BGADgmg3oB20Z-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-erf/html/erf.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-erf/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/ghc-prim-0.7.0/ghc-prim.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/ghc-prim-0.7.0 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-assoc/html/assoc.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-assoc/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-ed25519/html/ed25519.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ed25519/html doesn't exist or isn't a directory
+There are problems in package auto-update-0.1.6:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-auto-update/html/auto-update.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-auto-update/html doesn't exist or isn't a directory
+  cannot find any of ["libHSauto-update-0.1.6-J5P3ZHzHHYQCeNqSGWNiz8.a","libHSauto-update-0.1.6-J5P3ZHzHHYQCeNqSGWNiz8_p.a","libHSauto-update-0.1.6-J5P3ZHzHHYQCeNqSGWNiz8-ghc9.0.1.so","libHSauto-update-0.1.6-J5P3ZHzHHYQCeNqSGWNiz8-ghc9.0.1.dylib","HSauto-update-0.1.6-J5P3ZHzHHYQCeNqSGWNiz8-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/mtl-2.2.2/mtl.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/mtl-2.2.2 doesn't exist or isn't a directory
+There are problems in package lifted-base-0.2.3.12:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-lifted-base/html/lifted-base.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-lifted-base/html doesn't exist or isn't a directory
+  cannot find any of ["libHSlifted-base-0.2.3.12-GbBxJZdldOe18CReEPyAMR.a","libHSlifted-base-0.2.3.12-GbBxJZdldOe18CReEPyAMR_p.a","libHSlifted-base-0.2.3.12-GbBxJZdldOe18CReEPyAMR-ghc9.0.1.so","libHSlifted-base-0.2.3.12-GbBxJZdldOe18CReEPyAMR-ghc9.0.1.dylib","HSlifted-base-0.2.3.12-GbBxJZdldOe18CReEPyAMR-ghc9.0.1.dll"] on library path
+There are problems in package assoc-1.0.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-assoc/html/assoc.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-assoc/html doesn't exist or isn't a directory
+  cannot find any of ["libHSassoc-1.0.2-LVfbZm4v2BfJHYwheUZ8on.a","libHSassoc-1.0.2-LVfbZm4v2BfJHYwheUZ8on_p.a","libHSassoc-1.0.2-LVfbZm4v2BfJHYwheUZ8on-ghc9.0.1.so","libHSassoc-1.0.2-LVfbZm4v2BfJHYwheUZ8on-ghc9.0.1.dylib","HSassoc-1.0.2-LVfbZm4v2BfJHYwheUZ8on-ghc9.0.1.dll"] on library path
+There are problems in package connection-0.3.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-connection/html/connection.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-connection/html doesn't exist or isn't a directory
+  cannot find any of ["libHSconnection-0.3.1-Fk4jlsFDPC7Kb5wZOIYoT4.a","libHSconnection-0.3.1-Fk4jlsFDPC7Kb5wZOIYoT4_p.a","libHSconnection-0.3.1-Fk4jlsFDPC7Kb5wZOIYoT4-ghc9.0.1.so","libHSconnection-0.3.1-Fk4jlsFDPC7Kb5wZOIYoT4-ghc9.0.1.dylib","HSconnection-0.3.1-Fk4jlsFDPC7Kb5wZOIYoT4-ghc9.0.1.dll"] on library path
+There are problems in package streaming-commons-0.2.2.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-streaming-commons/html/streaming-commons.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-streaming-commons/html doesn't exist or isn't a directory
+  cannot find any of ["libHSstreaming-commons-0.2.2.1-7LA9GKNqrot91040oTVDDS.a","libHSstreaming-commons-0.2.2.1-7LA9GKNqrot91040oTVDDS_p.a","libHSstreaming-commons-0.2.2.1-7LA9GKNqrot91040oTVDDS-ghc9.0.1.so","libHSstreaming-commons-0.2.2.1-7LA9GKNqrot91040oTVDDS-ghc9.0.1.dylib","HSstreaming-commons-0.2.2.1-7LA9GKNqrot91040oTVDDS-ghc9.0.1.dll"] on library path
+There are problems in package tar-conduit-0.3.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-tar-conduit/html/tar-conduit.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-tar-conduit/html doesn't exist or isn't a directory
+  cannot find any of ["libHStar-conduit-0.3.2-GB7PLIsR1kn3WoGkKfbTVN.a","libHStar-conduit-0.3.2-GB7PLIsR1kn3WoGkKfbTVN_p.a","libHStar-conduit-0.3.2-GB7PLIsR1kn3WoGkKfbTVN-ghc9.0.1.so","libHStar-conduit-0.3.2-GB7PLIsR1kn3WoGkKfbTVN-ghc9.0.1.dylib","HStar-conduit-0.3.2-GB7PLIsR1kn3WoGkKfbTVN-ghc9.0.1.dll"] on library path
+There are problems in package optparse-generic-1.4.5:
+  Warning: library-dirs: /usr/lib/ghc-9.0.1/site-local/optparse-generic-1.4.5 doesn't exist or isn't a directory
+  Warning: haddock-interfaces: /usr/share/doc/haskell-optparse-generic/html/optparse-generic.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-optparse-generic/html doesn't exist or isn't a directory
+  import-dirs: /usr/lib/ghc-9.0.1/site-local/optparse-generic-1.4.5 doesn't exist or isn't a directory
+  cannot find any of ["Options/Generic.hi","Options/Generic.p_hi","Options/Generic.dyn_hi"]
+  cannot find any of ["libHSoptparse-generic-1.4.5-EiPgC1Zilj7GPccAxhTI7v.a","libHSoptparse-generic-1.4.5-EiPgC1Zilj7GPccAxhTI7v_p.a","libHSoptparse-generic-1.4.5-EiPgC1Zilj7GPccAxhTI7v-ghc9.0.1.so","libHSoptparse-generic-1.4.5-EiPgC1Zilj7GPccAxhTI7v-ghc9.0.1.dylib","HSoptparse-generic-1.4.5-EiPgC1Zilj7GPccAxhTI7v-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-pantry/html/pantry.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-pantry/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-asn1-parse/html/asn1-parse.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-asn1-parse/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-colour/html/colour.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-colour/html doesn't exist or isn't a directory
+There are problems in package microlens-mtl-0.2.0.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-microlens-mtl/html/microlens-mtl.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-microlens-mtl/html doesn't exist or isn't a directory
+  cannot find any of ["libHSmicrolens-mtl-0.2.0.1-EAJL4JuynF3EwruhRUjxvY.a","libHSmicrolens-mtl-0.2.0.1-EAJL4JuynF3EwruhRUjxvY_p.a","libHSmicrolens-mtl-0.2.0.1-EAJL4JuynF3EwruhRUjxvY-ghc9.0.1.so","libHSmicrolens-mtl-0.2.0.1-EAJL4JuynF3EwruhRUjxvY-ghc9.0.1.dylib","HSmicrolens-mtl-0.2.0.1-EAJL4JuynF3EwruhRUjxvY-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-rio/html/rio.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-rio/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-lifted-async/html/lifted-async.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-lifted-async/html doesn't exist or isn't a directory
+There are problems in package ansi-wl-pprint-0.6.9:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-ansi-wl-pprint/html/ansi-wl-pprint.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-ansi-wl-pprint/html doesn't exist or isn't a directory
+  cannot find any of ["libHSansi-wl-pprint-0.6.9-JOR1fZe7W518IeuVMlK4KV.a","libHSansi-wl-pprint-0.6.9-JOR1fZe7W518IeuVMlK4KV_p.a","libHSansi-wl-pprint-0.6.9-JOR1fZe7W518IeuVMlK4KV-ghc9.0.1.so","libHSansi-wl-pprint-0.6.9-JOR1fZe7W518IeuVMlK4KV-ghc9.0.1.dylib","HSansi-wl-pprint-0.6.9-JOR1fZe7W518IeuVMlK4KV-ghc9.0.1.dll"] on library path
+There are problems in package safe-exceptions-0.1.7.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-safe-exceptions/html/safe-exceptions.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-safe-exceptions/html doesn't exist or isn't a directory
+  cannot find any of ["libHSsafe-exceptions-0.1.7.2-5DVwwbCg16s2HJ80b8QaaD.a","libHSsafe-exceptions-0.1.7.2-5DVwwbCg16s2HJ80b8QaaD_p.a","libHSsafe-exceptions-0.1.7.2-5DVwwbCg16s2HJ80b8QaaD-ghc9.0.1.so","libHSsafe-exceptions-0.1.7.2-5DVwwbCg16s2HJ80b8QaaD-ghc9.0.1.dylib","HSsafe-exceptions-0.1.7.2-5DVwwbCg16s2HJ80b8QaaD-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-streaming-commons/html/streaming-commons.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-streaming-commons/html doesn't exist or isn't a directory
+There are problems in package optparse-applicative-0.16.1.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-optparse-applicative/html/optparse-applicative.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-optparse-applicative/html doesn't exist or isn't a directory
+  cannot find any of ["libHSoptparse-applicative-0.16.1.0-GAf19vjqBowD5QTDnxMOQQ.a","libHSoptparse-applicative-0.16.1.0-GAf19vjqBowD5QTDnxMOQQ_p.a","libHSoptparse-applicative-0.16.1.0-GAf19vjqBowD5QTDnxMOQQ-ghc9.0.1.so","libHSoptparse-applicative-0.16.1.0-GAf19vjqBowD5QTDnxMOQQ-ghc9.0.1.dylib","HSoptparse-applicative-0.16.1.0-GAf19vjqBowD5QTDnxMOQQ-ghc9.0.1.dll"] on library path
+There are problems in package regex-applicative-text-0.1.0.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-regex-applicative-text/html/regex-applicative-text.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-regex-applicative-text/html doesn't exist or isn't a directory
+  cannot find any of ["libHSregex-applicative-text-0.1.0.1-2DnLVKxyDLTC7m428o6kzg.a","libHSregex-applicative-text-0.1.0.1-2DnLVKxyDLTC7m428o6kzg_p.a","libHSregex-applicative-text-0.1.0.1-2DnLVKxyDLTC7m428o6kzg-ghc9.0.1.so","libHSregex-applicative-text-0.1.0.1-2DnLVKxyDLTC7m428o6kzg-ghc9.0.1.dylib","HSregex-applicative-text-0.1.0.1-2DnLVKxyDLTC7m428o6kzg-ghc9.0.1.dll"] on library path
+There are problems in package hourglass-0.2.12:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hourglass/html/hourglass.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hourglass/html doesn't exist or isn't a directory
+  cannot find any of ["libHShourglass-0.2.12-GSoPGhZBgG665A7B1ibeof.a","libHShourglass-0.2.12-GSoPGhZBgG665A7B1ibeof_p.a","libHShourglass-0.2.12-GSoPGhZBgG665A7B1ibeof-ghc9.0.1.so","libHShourglass-0.2.12-GSoPGhZBgG665A7B1ibeof-ghc9.0.1.dylib","HShourglass-0.2.12-GSoPGhZBgG665A7B1ibeof-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-ansi-wl-pprint/html/ansi-wl-pprint.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ansi-wl-pprint/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-base64-bytestring/html/base64-bytestring.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-base64-bytestring/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-splitmix/html/splitmix.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-splitmix/html doesn't exist or isn't a directory
+There are problems in package either-5.0.1.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-either/html/either.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-either/html doesn't exist or isn't a directory
+  cannot find any of ["libHSeither-5.0.1.1-2wr2rW8d2B72aS0FKyYBf0.a","libHSeither-5.0.1.1-2wr2rW8d2B72aS0FKyYBf0_p.a","libHSeither-5.0.1.1-2wr2rW8d2B72aS0FKyYBf0-ghc9.0.1.so","libHSeither-5.0.1.1-2wr2rW8d2B72aS0FKyYBf0-ghc9.0.1.dylib","HSeither-5.0.1.1-2wr2rW8d2B72aS0FKyYBf0-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-commonmark-extensions/html/commonmark-extensions.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-commonmark-extensions/html doesn't exist or isn't a directory
+There are problems in package system-filepath-0.4.14:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-system-filepath/html/system-filepath.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-system-filepath/html doesn't exist or isn't a directory
+  cannot find any of ["libHSsystem-filepath-0.4.14-LsFqPLzADZSDk5TxsQHOXE.a","libHSsystem-filepath-0.4.14-LsFqPLzADZSDk5TxsQHOXE_p.a","libHSsystem-filepath-0.4.14-LsFqPLzADZSDk5TxsQHOXE-ghc9.0.1.so","libHSsystem-filepath-0.4.14-LsFqPLzADZSDk5TxsQHOXE-ghc9.0.1.dylib","HSsystem-filepath-0.4.14-LsFqPLzADZSDk5TxsQHOXE-ghc9.0.1.dll"] on library path
+There are problems in package unliftio-0.2.20:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-unliftio/html/unliftio.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-unliftio/html doesn't exist or isn't a directory
+  cannot find any of ["libHSunliftio-0.2.20-3jQQWOhTCIOD2o7wzDHAMp.a","libHSunliftio-0.2.20-3jQQWOhTCIOD2o7wzDHAMp_p.a","libHSunliftio-0.2.20-3jQQWOhTCIOD2o7wzDHAMp-ghc9.0.1.so","libHSunliftio-0.2.20-3jQQWOhTCIOD2o7wzDHAMp-ghc9.0.1.dylib","HSunliftio-0.2.20-3jQQWOhTCIOD2o7wzDHAMp-ghc9.0.1.dll"] on library path
+There are problems in package strict-0.4.0.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-strict/html/strict.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-strict/html doesn't exist or isn't a directory
+  cannot find any of ["libHSstrict-0.4.0.1-6rH8fsjgKRD2Kgi9ZFdaNn.a","libHSstrict-0.4.0.1-6rH8fsjgKRD2Kgi9ZFdaNn_p.a","libHSstrict-0.4.0.1-6rH8fsjgKRD2Kgi9ZFdaNn-ghc9.0.1.so","libHSstrict-0.4.0.1-6rH8fsjgKRD2Kgi9ZFdaNn-ghc9.0.1.dylib","HSstrict-0.4.0.1-6rH8fsjgKRD2Kgi9ZFdaNn-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-split/html/split.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-split/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-th-expand-syns/html/th-expand-syns.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-th-expand-syns/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-optparse-applicative/html/optparse-applicative.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-optparse-applicative/html doesn't exist or isn't a directory
+There are problems in package megaparsec-9.1.0:
+  Warning: library-dirs: /usr/lib/ghc-9.0.1/site-local/megaparsec-9.1.0 doesn't exist or isn't a directory
+  Warning: haddock-interfaces: /usr/share/doc/haskell-megaparsec/html/megaparsec.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-megaparsec/html doesn't exist or isn't a directory
+  import-dirs: /usr/lib/ghc-9.0.1/site-local/megaparsec-9.1.0 doesn't exist or isn't a directory
+  cannot find any of ["Text/Megaparsec.hi","Text/Megaparsec.p_hi","Text/Megaparsec.dyn_hi"]
+  cannot find any of ["Text/Megaparsec/Byte.hi","Text/Megaparsec/Byte.p_hi","Text/Megaparsec/Byte.dyn_hi"]
+  cannot find any of ["Text/Megaparsec/Byte/Lexer.hi","Text/Megaparsec/Byte/Lexer.p_hi","Text/Megaparsec/Byte/Lexer.dyn_hi"]
+  cannot find any of ["Text/Megaparsec/Char.hi","Text/Megaparsec/Char.p_hi","Text/Megaparsec/Char.dyn_hi"]
+  cannot find any of ["Text/Megaparsec/Char/Lexer.hi","Text/Megaparsec/Char/Lexer.p_hi","Text/Megaparsec/Char/Lexer.dyn_hi"]
+  cannot find any of ["Text/Megaparsec/Debug.hi","Text/Megaparsec/Debug.p_hi","Text/Megaparsec/Debug.dyn_hi"]
+  cannot find any of ["Text/Megaparsec/Error.hi","Text/Megaparsec/Error.p_hi","Text/Megaparsec/Error.dyn_hi"]
+  cannot find any of ["Text/Megaparsec/Error/Builder.hi","Text/Megaparsec/Error/Builder.p_hi","Text/Megaparsec/Error/Builder.dyn_hi"]
+  cannot find any of ["Text/Megaparsec/Internal.hi","Text/Megaparsec/Internal.p_hi","Text/Megaparsec/Internal.dyn_hi"]
+  cannot find any of ["Text/Megaparsec/Pos.hi","Text/Megaparsec/Pos.p_hi","Text/Megaparsec/Pos.dyn_hi"]
+  cannot find any of ["Text/Megaparsec/Stream.hi","Text/Megaparsec/Stream.p_hi","Text/Megaparsec/Stream.dyn_hi"]
+  cannot find any of ["Text/Megaparsec/Class.hi","Text/Megaparsec/Class.p_hi","Text/Megaparsec/Class.dyn_hi"]
+  cannot find any of ["Text/Megaparsec/Common.hi","Text/Megaparsec/Common.p_hi","Text/Megaparsec/Common.dyn_hi"]
+  cannot find any of ["Text/Megaparsec/Lexer.hi","Text/Megaparsec/Lexer.p_hi","Text/Megaparsec/Lexer.dyn_hi"]
+  cannot find any of ["Text/Megaparsec/State.hi","Text/Megaparsec/State.p_hi","Text/Megaparsec/State.dyn_hi"]
+  cannot find any of ["libHSmegaparsec-9.1.0-3baosRTM6G61cXADCCGeP9.a","libHSmegaparsec-9.1.0-3baosRTM6G61cXADCCGeP9_p.a","libHSmegaparsec-9.1.0-3baosRTM6G61cXADCCGeP9-ghc9.0.1.so","libHSmegaparsec-9.1.0-3baosRTM6G61cXADCCGeP9-ghc9.0.1.dylib","HSmegaparsec-9.1.0-3baosRTM6G61cXADCCGeP9-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-data-default-instances-old-locale/html/data-default-instances-old-locale.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-data-default-instances-old-locale/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-yaml/html/yaml.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-yaml/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-case-insensitive/html/case-insensitive.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-case-insensitive/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-unliftio/html/unliftio.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-unliftio/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-system-filepath/html/system-filepath.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-system-filepath/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-regex-compat/html/regex-compat.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-regex-compat/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-microlens-th/html/microlens-th.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-microlens-th/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hashable/html/hashable.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hashable/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-mintty/html/mintty.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-mintty/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/base-4.15.0.0/base.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/base-4.15.0.0 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/Cabal-3.4.0.0/Cabal.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/Cabal-3.4.0.0 doesn't exist or isn't a directory
+There are problems in package profunctors-5.6.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-profunctors/html/profunctors.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-profunctors/html doesn't exist or isn't a directory
+  cannot find any of ["libHSprofunctors-5.6.2-FuEKR7yDDqrCb6OWIkshes.a","libHSprofunctors-5.6.2-FuEKR7yDDqrCb6OWIkshes_p.a","libHSprofunctors-5.6.2-FuEKR7yDDqrCb6OWIkshes-ghc9.0.1.so","libHSprofunctors-5.6.2-FuEKR7yDDqrCb6OWIkshes-ghc9.0.1.dylib","HSprofunctors-5.6.2-FuEKR7yDDqrCb6OWIkshes-ghc9.0.1.dll"] on library path
+There are problems in package blaze-builder-0.4.2.1:
+  Warning: library-dirs: /usr/lib/ghc-9.0.1/site-local/blaze-builder-0.4.2.1 doesn't exist or isn't a directory
+  Warning: haddock-interfaces: /usr/share/doc/haskell-blaze-builder/html/blaze-builder.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-blaze-builder/html doesn't exist or isn't a directory
+  import-dirs: /usr/lib/ghc-9.0.1/site-local/blaze-builder-0.4.2.1 doesn't exist or isn't a directory
+  cannot find any of ["Blaze/ByteString/Builder.hi","Blaze/ByteString/Builder.p_hi","Blaze/ByteString/Builder.dyn_hi"]
+  cannot find any of ["Blaze/ByteString/Builder/ByteString.hi","Blaze/ByteString/Builder/ByteString.p_hi","Blaze/ByteString/Builder/ByteString.dyn_hi"]
+  cannot find any of ["Blaze/ByteString/Builder/Char/Utf8.hi","Blaze/ByteString/Builder/Char/Utf8.p_hi","Blaze/ByteString/Builder/Char/Utf8.dyn_hi"]
+  cannot find any of ["Blaze/ByteString/Builder/Char8.hi","Blaze/ByteString/Builder/Char8.p_hi","Blaze/ByteString/Builder/Char8.dyn_hi"]
+  cannot find any of ["Blaze/ByteString/Builder/Compat/Write.hi","Blaze/ByteString/Builder/Compat/Write.p_hi","Blaze/ByteString/Builder/Compat/Write.dyn_hi"]
+  cannot find any of ["Blaze/ByteString/Builder/HTTP.hi","Blaze/ByteString/Builder/HTTP.p_hi","Blaze/ByteString/Builder/HTTP.dyn_hi"]
+  cannot find any of ["Blaze/ByteString/Builder/Html/Utf8.hi","Blaze/ByteString/Builder/Html/Utf8.p_hi","Blaze/ByteString/Builder/Html/Utf8.dyn_hi"]
+  cannot find any of ["Blaze/ByteString/Builder/Html/Word.hi","Blaze/ByteString/Builder/Html/Word.p_hi","Blaze/ByteString/Builder/Html/Word.dyn_hi"]
+  cannot find any of ["Blaze/ByteString/Builder/Int.hi","Blaze/ByteString/Builder/Int.p_hi","Blaze/ByteString/Builder/Int.dyn_hi"]
+  cannot find any of ["Blaze/ByteString/Builder/Internal/Write.hi","Blaze/ByteString/Builder/Internal/Write.p_hi","Blaze/ByteString/Builder/Internal/Write.dyn_hi"]
+  cannot find any of ["Blaze/ByteString/Builder/Word.hi","Blaze/ByteString/Builder/Word.p_hi","Blaze/ByteString/Builder/Word.dyn_hi"]
+  cannot find any of ["libHSblaze-builder-0.4.2.1-1jqIYnOFfUgLYlL3E7ErdB.a","libHSblaze-builder-0.4.2.1-1jqIYnOFfUgLYlL3E7ErdB_p.a","libHSblaze-builder-0.4.2.1-1jqIYnOFfUgLYlL3E7ErdB-ghc9.0.1.so","libHSblaze-builder-0.4.2.1-1jqIYnOFfUgLYlL3E7ErdB-ghc9.0.1.dylib","HSblaze-builder-0.4.2.1-1jqIYnOFfUgLYlL3E7ErdB-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-parsec-numbers/html/parsec-numbers.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-parsec-numbers/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-http-download/html/http-download.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-http-download/html doesn't exist or isn't a directory
+There are problems in package mono-traversable-1.0.15.3:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-mono-traversable/html/mono-traversable.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-mono-traversable/html doesn't exist or isn't a directory
+  cannot find any of ["libHSmono-traversable-1.0.15.3-1Vt9SE6i9euIlHELYsaTH6.a","libHSmono-traversable-1.0.15.3-1Vt9SE6i9euIlHELYsaTH6_p.a","libHSmono-traversable-1.0.15.3-1Vt9SE6i9euIlHELYsaTH6-ghc9.0.1.so","libHSmono-traversable-1.0.15.3-1Vt9SE6i9euIlHELYsaTH6-ghc9.0.1.dylib","HSmono-traversable-1.0.15.3-1Vt9SE6i9euIlHELYsaTH6-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-free/html/free.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-free/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-resourcet/html/resourcet.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-resourcet/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-reflection/html/reflection.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-reflection/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-enclosed-exceptions/html/enclosed-exceptions.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-enclosed-exceptions/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/deepseq-1.4.5.0/deepseq.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/deepseq-1.4.5.0 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-unicode-transforms/html/unicode-transforms.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-unicode-transforms/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-time-compat/html/time-compat.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-time-compat/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-path/html/path.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-path/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-scientific/html/scientific.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-scientific/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-comonad/html/comonad.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-comonad/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-conduit/html/conduit.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-conduit/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/xmonad-contrib/html/xmonad-contrib.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/xmonad-contrib/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-socks/html/socks.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-socks/html doesn't exist or isn't a directory
+There are problems in package text-metrics-0.3.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-text-metrics/html/text-metrics.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-text-metrics/html doesn't exist or isn't a directory
+  cannot find any of ["libHStext-metrics-0.3.1-7mdNDO9gyVUA1syOWeSZgu.a","libHStext-metrics-0.3.1-7mdNDO9gyVUA1syOWeSZgu_p.a","libHStext-metrics-0.3.1-7mdNDO9gyVUA1syOWeSZgu-ghc9.0.1.so","libHStext-metrics-0.3.1-7mdNDO9gyVUA1syOWeSZgu-ghc9.0.1.dylib","HStext-metrics-0.3.1-7mdNDO9gyVUA1syOWeSZgu-ghc9.0.1.dll"] on library path
+There are problems in package unordered-containers-0.2.14.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-unordered-containers/html/unordered-containers.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-unordered-containers/html doesn't exist or isn't a directory
+  cannot find any of ["libHSunordered-containers-0.2.14.0-Wie4T3gD5k18ShmuaDNll.a","libHSunordered-containers-0.2.14.0-Wie4T3gD5k18ShmuaDNll_p.a","libHSunordered-containers-0.2.14.0-Wie4T3gD5k18ShmuaDNll-ghc9.0.1.so","libHSunordered-containers-0.2.14.0-Wie4T3gD5k18ShmuaDNll-ghc9.0.1.dylib","HSunordered-containers-0.2.14.0-Wie4T3gD5k18ShmuaDNll-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-jira-wiki-markup/html/jira-wiki-markup.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-jira-wiki-markup/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-resource-pool/html/resource-pool.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-resource-pool/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-aeson-pretty/html/aeson-pretty.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-aeson-pretty/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-base-compat/html/base-compat.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-base-compat/html doesn't exist or isn't a directory
+There are problems in package colour-2.3.6:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-colour/html/colour.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-colour/html doesn't exist or isn't a directory
+  cannot find any of ["libHScolour-2.3.6-2cY222O1bdPRpo2ttr4Kr.a","libHScolour-2.3.6-2cY222O1bdPRpo2ttr4Kr_p.a","libHScolour-2.3.6-2cY222O1bdPRpo2ttr4Kr-ghc9.0.1.so","libHScolour-2.3.6-2cY222O1bdPRpo2ttr4Kr-ghc9.0.1.dylib","HScolour-2.3.6-2cY222O1bdPRpo2ttr4Kr-ghc9.0.1.dll"] on library path
+There are problems in package pantry-0.5.2.3:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-pantry/html/pantry.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-pantry/html doesn't exist or isn't a directory
+  dependency "hpack-0.34.4-F9AvNCzOFUHAa2Bxl1qerX" doesn't exist
+  cannot find any of ["libHSpantry-0.5.2.3-K1e7wvCOrgKJxScKiNDUnA.a","libHSpantry-0.5.2.3-K1e7wvCOrgKJxScKiNDUnA_p.a","libHSpantry-0.5.2.3-K1e7wvCOrgKJxScKiNDUnA-ghc9.0.1.so","libHSpantry-0.5.2.3-K1e7wvCOrgKJxScKiNDUnA-ghc9.0.1.dylib","HSpantry-0.5.2.3-K1e7wvCOrgKJxScKiNDUnA-ghc9.0.1.dll"] on library path
+There are problems in package project-template-0.2.1.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-project-template/html/project-template.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-project-template/html doesn't exist or isn't a directory
+  cannot find any of ["libHSproject-template-0.2.1.0-CHZHSFWFiWn4Zz5MrGtdYF.a","libHSproject-template-0.2.1.0-CHZHSFWFiWn4Zz5MrGtdYF_p.a","libHSproject-template-0.2.1.0-CHZHSFWFiWn4Zz5MrGtdYF-ghc9.0.1.so","libHSproject-template-0.2.1.0-CHZHSFWFiWn4Zz5MrGtdYF-ghc9.0.1.dylib","HSproject-template-0.2.1.0-CHZHSFWFiWn4Zz5MrGtdYF-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-mustache/html/mustache.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-mustache/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-distributive/html/distributive.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-distributive/html doesn't exist or isn't a directory
+There are problems in package x509-validation-1.6.11:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-x509-validation/html/x509-validation.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-x509-validation/html doesn't exist or isn't a directory
+  cannot find any of ["libHSx509-validation-1.6.11-FfAt6UHEMi7LCfs9rXrqRT.a","libHSx509-validation-1.6.11-FfAt6UHEMi7LCfs9rXrqRT_p.a","libHSx509-validation-1.6.11-FfAt6UHEMi7LCfs9rXrqRT-ghc9.0.1.so","libHSx509-validation-1.6.11-FfAt6UHEMi7LCfs9rXrqRT-ghc9.0.1.dylib","HSx509-validation-1.6.11-FfAt6UHEMi7LCfs9rXrqRT-ghc9.0.1.dll"] on library path
+There are problems in package yaml-0.11.6.0:
+  Warning: library-dirs: /usr/lib/ghc-9.0.1/site-local/yaml-0.11.6.0 doesn't exist or isn't a directory
+  Warning: haddock-interfaces: /usr/share/doc/haskell-yaml/html/yaml.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-yaml/html doesn't exist or isn't a directory
+  import-dirs: /usr/lib/ghc-9.0.1/site-local/yaml-0.11.6.0 doesn't exist or isn't a directory
+  cannot find any of ["Data/Yaml.hi","Data/Yaml.p_hi","Data/Yaml.dyn_hi"]
+  cannot find any of ["Data/Yaml/Aeson.hi","Data/Yaml/Aeson.p_hi","Data/Yaml/Aeson.dyn_hi"]
+  cannot find any of ["Data/Yaml/Builder.hi","Data/Yaml/Builder.p_hi","Data/Yaml/Builder.dyn_hi"]
+  cannot find any of ["Data/Yaml/Config.hi","Data/Yaml/Config.p_hi","Data/Yaml/Config.dyn_hi"]
+  cannot find any of ["Data/Yaml/Include.hi","Data/Yaml/Include.p_hi","Data/Yaml/Include.dyn_hi"]
+  cannot find any of ["Data/Yaml/Internal.hi","Data/Yaml/Internal.p_hi","Data/Yaml/Internal.dyn_hi"]
+  cannot find any of ["Data/Yaml/Parser.hi","Data/Yaml/Parser.p_hi","Data/Yaml/Parser.dyn_hi"]
+  cannot find any of ["Data/Yaml/Pretty.hi","Data/Yaml/Pretty.p_hi","Data/Yaml/Pretty.dyn_hi"]
+  cannot find any of ["Data/Yaml/TH.hi","Data/Yaml/TH.p_hi","Data/Yaml/TH.dyn_hi"]
+  cannot find any of ["Paths_yaml.hi","Paths_yaml.p_hi","Paths_yaml.dyn_hi"]
+  cannot find any of ["libHSyaml-0.11.6.0-CNesgPRTR5CHyZkjDHA8a0.a","libHSyaml-0.11.6.0-CNesgPRTR5CHyZkjDHA8a0_p.a","libHSyaml-0.11.6.0-CNesgPRTR5CHyZkjDHA8a0-ghc9.0.1.so","libHSyaml-0.11.6.0-CNesgPRTR5CHyZkjDHA8a0-ghc9.0.1.dylib","HSyaml-0.11.6.0-CNesgPRTR5CHyZkjDHA8a0-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-th-lift-instances/html/th-lift-instances.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-th-lift-instances/html doesn't exist or isn't a directory
+There are problems in package blaze-markup-0.8.2.8:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-blaze-markup/html/blaze-markup.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-blaze-markup/html doesn't exist or isn't a directory
+  cannot find any of ["libHSblaze-markup-0.8.2.8-17Ckl6PgrahHdxhCd9dsds.a","libHSblaze-markup-0.8.2.8-17Ckl6PgrahHdxhCd9dsds_p.a","libHSblaze-markup-0.8.2.8-17Ckl6PgrahHdxhCd9dsds-ghc9.0.1.so","libHSblaze-markup-0.8.2.8-17Ckl6PgrahHdxhCd9dsds-ghc9.0.1.dylib","HSblaze-markup-0.8.2.8-17Ckl6PgrahHdxhCd9dsds-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-cereal/html/cereal.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-cereal/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-vector/html/vector.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-vector/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-x11-xft/html/X11-xft.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-x11-xft/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-old-time/html/old-time.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-old-time/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-extensible-exceptions/html/extensible-exceptions.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-extensible-exceptions/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-transformers-base/html/transformers-base.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-transformers-base/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-monad-loops/html/monad-loops.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-monad-loops/html doesn't exist or isn't a directory
+There are problems in package temporary-1.3:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-temporary/html/temporary.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-temporary/html doesn't exist or isn't a directory
+  cannot find any of ["libHStemporary-1.3-DIthq2WnddjKMWnYYT9Yc7.a","libHStemporary-1.3-DIthq2WnddjKMWnYYT9Yc7_p.a","libHStemporary-1.3-DIthq2WnddjKMWnYYT9Yc7-ghc9.0.1.so","libHStemporary-1.3-DIthq2WnddjKMWnYYT9Yc7-ghc9.0.1.dylib","HStemporary-1.3-DIthq2WnddjKMWnYYT9Yc7-ghc9.0.1.dll"] on library path
+There are problems in package http-api-data-0.4.3:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-http-api-data/html/http-api-data.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-http-api-data/html doesn't exist or isn't a directory
+  cannot find any of ["libHShttp-api-data-0.4.3-3905iYXHDHcGnyoYj0Z8ig.a","libHShttp-api-data-0.4.3-3905iYXHDHcGnyoYj0Z8ig_p.a","libHShttp-api-data-0.4.3-3905iYXHDHcGnyoYj0Z8ig-ghc9.0.1.so","libHShttp-api-data-0.4.3-3905iYXHDHcGnyoYj0Z8ig-ghc9.0.1.dylib","HShttp-api-data-0.4.3-3905iYXHDHcGnyoYj0Z8ig-ghc9.0.1.dll"] on library path
+There are problems in package scientific-0.3.7.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-scientific/html/scientific.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-scientific/html doesn't exist or isn't a directory
+  cannot find any of ["libHSscientific-0.3.7.0-E803LlS9vNDBghZwFKaxYk.a","libHSscientific-0.3.7.0-E803LlS9vNDBghZwFKaxYk_p.a","libHSscientific-0.3.7.0-E803LlS9vNDBghZwFKaxYk-ghc9.0.1.so","libHSscientific-0.3.7.0-E803LlS9vNDBghZwFKaxYk-ghc9.0.1.dylib","HSscientific-0.3.7.0-E803LlS9vNDBghZwFKaxYk-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-asn1-types/html/asn1-types.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-asn1-types/html doesn't exist or isn't a directory
+There are problems in package hi-file-parser-0.1.2.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hi-file-parser/html/hi-file-parser.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hi-file-parser/html doesn't exist or isn't a directory
+  cannot find any of ["libHShi-file-parser-0.1.2.0-JWJw25iLcXd9lFOyDjegNA.a","libHShi-file-parser-0.1.2.0-JWJw25iLcXd9lFOyDjegNA_p.a","libHShi-file-parser-0.1.2.0-JWJw25iLcXd9lFOyDjegNA-ghc9.0.1.so","libHShi-file-parser-0.1.2.0-JWJw25iLcXd9lFOyDjegNA-ghc9.0.1.dylib","HShi-file-parser-0.1.2.0-JWJw25iLcXd9lFOyDjegNA-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-generic-deriving/html/generic-deriving.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-generic-deriving/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-regex-base/html/regex-base.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-regex-base/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-utf8-string/html/utf8-string.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-utf8-string/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-pandoc-types/html/pandoc-types.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-pandoc-types/html doesn't exist or isn't a directory
+There are problems in package bifunctors-5.5.11:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-bifunctors/html/bifunctors.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-bifunctors/html doesn't exist or isn't a directory
+  cannot find any of ["libHSbifunctors-5.5.11-4BhZ5HBbbiX2SIDaSNSqji.a","libHSbifunctors-5.5.11-4BhZ5HBbbiX2SIDaSNSqji_p.a","libHSbifunctors-5.5.11-4BhZ5HBbbiX2SIDaSNSqji-ghc9.0.1.so","libHSbifunctors-5.5.11-4BhZ5HBbbiX2SIDaSNSqji-ghc9.0.1.dylib","HSbifunctors-5.5.11-4BhZ5HBbbiX2SIDaSNSqji-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-memory/html/memory.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-memory/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-githash/html/githash.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-githash/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-statevar/html/StateVar.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-statevar/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-semigroupoids/html/semigroupoids.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-semigroupoids/html doesn't exist or isn't a directory
+There are problems in package vector-algorithms-0.8.0.4:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-vector-algorithms/html/vector-algorithms.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-vector-algorithms/html doesn't exist or isn't a directory
+  cannot find any of ["libHSvector-algorithms-0.8.0.4-8xgzCDoEJebGQLXLHJTEV2.a","libHSvector-algorithms-0.8.0.4-8xgzCDoEJebGQLXLHJTEV2_p.a","libHSvector-algorithms-0.8.0.4-8xgzCDoEJebGQLXLHJTEV2-ghc9.0.1.so","libHSvector-algorithms-0.8.0.4-8xgzCDoEJebGQLXLHJTEV2-ghc9.0.1.dylib","HSvector-algorithms-0.8.0.4-8xgzCDoEJebGQLXLHJTEV2-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-tar-conduit/html/tar-conduit.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-tar-conduit/html doesn't exist or isn't a directory
+There are problems in package cereal-0.5.8.1:
+  Warning: library-dirs: /usr/lib/ghc-9.0.1/site-local/cereal-0.5.8.1 doesn't exist or isn't a directory
+  Warning: haddock-interfaces: /usr/share/doc/haskell-cereal/html/cereal.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-cereal/html doesn't exist or isn't a directory
+  import-dirs: /usr/lib/ghc-9.0.1/site-local/cereal-0.5.8.1 doesn't exist or isn't a directory
+  cannot find any of ["Data/Serialize.hi","Data/Serialize.p_hi","Data/Serialize.dyn_hi"]
+  cannot find any of ["Data/Serialize/Get.hi","Data/Serialize/Get.p_hi","Data/Serialize/Get.dyn_hi"]
+  cannot find any of ["Data/Serialize/IEEE754.hi","Data/Serialize/IEEE754.p_hi","Data/Serialize/IEEE754.dyn_hi"]
+  cannot find any of ["Data/Serialize/Put.hi","Data/Serialize/Put.p_hi","Data/Serialize/Put.dyn_hi"]
+  cannot find any of ["libHScereal-0.5.8.1-8mCXAg3ZUhz3qnQL3xR8hS.a","libHScereal-0.5.8.1-8mCXAg3ZUhz3qnQL3xR8hS_p.a","libHScereal-0.5.8.1-8mCXAg3ZUhz3qnQL3xR8hS-ghc9.0.1.so","libHScereal-0.5.8.1-8mCXAg3ZUhz3qnQL3xR8hS-ghc9.0.1.dylib","HScereal-0.5.8.1-8mCXAg3ZUhz3qnQL3xR8hS-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-safe/html/safe.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-safe/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-unix-time/html/unix-time.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-unix-time/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-lift-type/html/lift-type.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-lift-type/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-shelly/html/shelly.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-shelly/html doesn't exist or isn't a directory
+There are problems in package network-uri-2.6.4.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-network-uri/html/network-uri.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-network-uri/html doesn't exist or isn't a directory
+  cannot find any of ["libHSnetwork-uri-2.6.4.1-DJOF1HMaUfXCJujDIgDzpa.a","libHSnetwork-uri-2.6.4.1-DJOF1HMaUfXCJujDIgDzpa_p.a","libHSnetwork-uri-2.6.4.1-DJOF1HMaUfXCJujDIgDzpa-ghc9.0.1.so","libHSnetwork-uri-2.6.4.1-DJOF1HMaUfXCJujDIgDzpa-ghc9.0.1.dylib","HSnetwork-uri-2.6.4.1-DJOF1HMaUfXCJujDIgDzpa-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-open-browser/html/open-browser.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-open-browser/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-x509-system/html/x509-system.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-x509-system/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-optparse-simple/html/optparse-simple.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-optparse-simple/html doesn't exist or isn't a directory
+There are problems in package http-client-0.7.9:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-http-client/html/http-client.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-http-client/html doesn't exist or isn't a directory
+  cannot find any of ["libHShttp-client-0.7.9-1kS7jLwfGjN10TMdlrBFei.a","libHShttp-client-0.7.9-1kS7jLwfGjN10TMdlrBFei_p.a","libHShttp-client-0.7.9-1kS7jLwfGjN10TMdlrBFei-ghc9.0.1.so","libHShttp-client-0.7.9-1kS7jLwfGjN10TMdlrBFei-ghc9.0.1.dylib","HShttp-client-0.7.9-1kS7jLwfGjN10TMdlrBFei-ghc9.0.1.dll"] on library path
+There are problems in package retry-0.9.0.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-retry/html/retry.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-retry/html doesn't exist or isn't a directory
+  cannot find any of ["libHSretry-0.9.0.0-Hbh6SPlDbrjKrgEiaWp0bF.a","libHSretry-0.9.0.0-Hbh6SPlDbrjKrgEiaWp0bF_p.a","libHSretry-0.9.0.0-Hbh6SPlDbrjKrgEiaWp0bF-ghc9.0.1.so","libHSretry-0.9.0.0-Hbh6SPlDbrjKrgEiaWp0bF-ghc9.0.1.dylib","HSretry-0.9.0.0-Hbh6SPlDbrjKrgEiaWp0bF-ghc9.0.1.dll"] on library path
+There are problems in package split-0.2.3.4:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-split/html/split.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-split/html doesn't exist or isn't a directory
+  cannot find any of ["libHSsplit-0.2.3.4-66WnL8lpKgJ9suCZaVklHQ.a","libHSsplit-0.2.3.4-66WnL8lpKgJ9suCZaVklHQ_p.a","libHSsplit-0.2.3.4-66WnL8lpKgJ9suCZaVklHQ-ghc9.0.1.so","libHSsplit-0.2.3.4-66WnL8lpKgJ9suCZaVklHQ-ghc9.0.1.dylib","HSsplit-0.2.3.4-66WnL8lpKgJ9suCZaVklHQ-ghc9.0.1.dll"] on library path
+There are problems in package shelly-1.9.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-shelly/html/shelly.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-shelly/html doesn't exist or isn't a directory
+  cannot find any of ["libHSshelly-1.9.0-Da0qvkXGxjN5EYLD3jb7pL.a","libHSshelly-1.9.0-Da0qvkXGxjN5EYLD3jb7pL_p.a","libHSshelly-1.9.0-Da0qvkXGxjN5EYLD3jb7pL-ghc9.0.1.so","libHSshelly-1.9.0-Da0qvkXGxjN5EYLD3jb7pL-ghc9.0.1.dylib","HSshelly-1.9.0-Da0qvkXGxjN5EYLD3jb7pL-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-casa-types/html/casa-types.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-casa-types/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-http/html/HTTP.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-http/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-dbus/html/dbus.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-dbus/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-parser-combinators/html/parser-combinators.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-parser-combinators/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/ghc-9.0.1/ghc.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/ghc-9.0.1 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/ghc-boot-9.0.1/ghc-boot.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/ghc-boot-9.0.1 doesn't exist or isn't a directory
+There are problems in package persistent-2.13.1.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-persistent/html/persistent.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-persistent/html doesn't exist or isn't a directory
+  cannot find any of ["libHSpersistent-2.13.1.2-IdkpAsFdmI9FfU1gdchKu7.a","libHSpersistent-2.13.1.2-IdkpAsFdmI9FfU1gdchKu7_p.a","libHSpersistent-2.13.1.2-IdkpAsFdmI9FfU1gdchKu7-ghc9.0.1.so","libHSpersistent-2.13.1.2-IdkpAsFdmI9FfU1gdchKu7-ghc9.0.1.dylib","HSpersistent-2.13.1.2-IdkpAsFdmI9FfU1gdchKu7-ghc9.0.1.dll"] on library path
+There are problems in package http-download-0.2.0.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-http-download/html/http-download.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-http-download/html doesn't exist or isn't a directory
+  cannot find any of ["libHShttp-download-0.2.0.0-DXsJnQTbG8o5gZI0biQP5Q.a","libHShttp-download-0.2.0.0-DXsJnQTbG8o5gZI0biQP5Q_p.a","libHShttp-download-0.2.0.0-DXsJnQTbG8o5gZI0biQP5Q-ghc9.0.1.so","libHShttp-download-0.2.0.0-DXsJnQTbG8o5gZI0biQP5Q-ghc9.0.1.dylib","HShttp-download-0.2.0.0-DXsJnQTbG8o5gZI0biQP5Q-ghc9.0.1.dll"] on library path
+There are problems in package filelock-0.1.1.5:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-filelock/html/filelock.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-filelock/html doesn't exist or isn't a directory
+  cannot find any of ["libHSfilelock-0.1.1.5-DI6RNIkJxjyJcfMT5Qq7S5.a","libHSfilelock-0.1.1.5-DI6RNIkJxjyJcfMT5Qq7S5_p.a","libHSfilelock-0.1.1.5-DI6RNIkJxjyJcfMT5Qq7S5-ghc9.0.1.so","libHSfilelock-0.1.1.5-DI6RNIkJxjyJcfMT5Qq7S5-ghc9.0.1.dylib","HSfilelock-0.1.1.5-DI6RNIkJxjyJcfMT5Qq7S5-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-echo/html/echo.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-echo/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-monad-logger/html/monad-logger.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-monad-logger/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-vector-algorithms/html/vector-algorithms.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-vector-algorithms/html doesn't exist or isn't a directory
+There are problems in package th-lift-instances-0.1.18:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-th-lift-instances/html/th-lift-instances.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-th-lift-instances/html doesn't exist or isn't a directory
+  cannot find any of ["libHSth-lift-instances-0.1.18-6dmKI9ZcMTc95OAlhXc4Bv.a","libHSth-lift-instances-0.1.18-6dmKI9ZcMTc95OAlhXc4Bv_p.a","libHSth-lift-instances-0.1.18-6dmKI9ZcMTc95OAlhXc4Bv-ghc9.0.1.so","libHSth-lift-instances-0.1.18-6dmKI9ZcMTc95OAlhXc4Bv-ghc9.0.1.dylib","HSth-lift-instances-0.1.18-6dmKI9ZcMTc95OAlhXc4Bv-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-casa-client/html/casa-client.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-casa-client/html doesn't exist or isn't a directory
+There are problems in package monad-control-1.0.3.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-monad-control/html/monad-control.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-monad-control/html doesn't exist or isn't a directory
+  cannot find any of ["libHSmonad-control-1.0.3.1-FVuy6K1bG22AmzeecOYTsL.a","libHSmonad-control-1.0.3.1-FVuy6K1bG22AmzeecOYTsL_p.a","libHSmonad-control-1.0.3.1-FVuy6K1bG22AmzeecOYTsL-ghc9.0.1.so","libHSmonad-control-1.0.3.1-FVuy6K1bG22AmzeecOYTsL-ghc9.0.1.dylib","HSmonad-control-1.0.3.1-FVuy6K1bG22AmzeecOYTsL-ghc9.0.1.dll"] on library path
+There are problems in package ansi-terminal-0.11:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-ansi-terminal/html/ansi-terminal.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-ansi-terminal/html doesn't exist or isn't a directory
+  cannot find any of ["libHSansi-terminal-0.11-AWG4ISlY8CcEJlJfIhaQcb.a","libHSansi-terminal-0.11-AWG4ISlY8CcEJlJfIhaQcb_p.a","libHSansi-terminal-0.11-AWG4ISlY8CcEJlJfIhaQcb-ghc9.0.1.so","libHSansi-terminal-0.11-AWG4ISlY8CcEJlJfIhaQcb-ghc9.0.1.dylib","HSansi-terminal-0.11-AWG4ISlY8CcEJlJfIhaQcb-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-hsyaml/html/HsYAML.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hsyaml/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-these/html/these.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-these/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/array-0.5.4.0/array.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/array-0.5.4.0 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-unordered-containers/html/unordered-containers.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-unordered-containers/html doesn't exist or isn't a directory
+There are problems in package hashable-1.3.3.0:
+  Warning: library-dirs: /usr/lib/ghc-9.0.1/site-local/hashable-1.3.3.0 doesn't exist or isn't a directory
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hashable/html/hashable.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hashable/html doesn't exist or isn't a directory
+  import-dirs: /usr/lib/ghc-9.0.1/site-local/hashable-1.3.3.0 doesn't exist or isn't a directory
+  cannot find any of ["Data/Hashable.hi","Data/Hashable.p_hi","Data/Hashable.dyn_hi"]
+  cannot find any of ["Data/Hashable/Generic.hi","Data/Hashable/Generic.p_hi","Data/Hashable/Generic.dyn_hi"]
+  cannot find any of ["Data/Hashable/Lifted.hi","Data/Hashable/Lifted.p_hi","Data/Hashable/Lifted.dyn_hi"]
+  cannot find any of ["Data/Hashable/Class.hi","Data/Hashable/Class.p_hi","Data/Hashable/Class.dyn_hi"]
+  cannot find any of ["Data/Hashable/Generic/Instances.hi","Data/Hashable/Generic/Instances.p_hi","Data/Hashable/Generic/Instances.dyn_hi"]
+  cannot find any of ["libHShashable-1.3.3.0-LgC2GKp34OLEabneGtyuCb.a","libHShashable-1.3.3.0-LgC2GKp34OLEabneGtyuCb_p.a","libHShashable-1.3.3.0-LgC2GKp34OLEabneGtyuCb-ghc9.0.1.so","libHShashable-1.3.3.0-LgC2GKp34OLEabneGtyuCb-ghc9.0.1.dylib","HShashable-1.3.3.0-LgC2GKp34OLEabneGtyuCb-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-transformers-compat/html/transformers-compat.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-transformers-compat/html doesn't exist or isn't a directory
+There are problems in package cryptonite-conduit-0.2.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-cryptonite-conduit/html/cryptonite-conduit.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-cryptonite-conduit/html doesn't exist or isn't a directory
+  cannot find any of ["libHScryptonite-conduit-0.2.2-6YNZi94xhxp2iZbtswNl2m.a","libHScryptonite-conduit-0.2.2-6YNZi94xhxp2iZbtswNl2m_p.a","libHScryptonite-conduit-0.2.2-6YNZi94xhxp2iZbtswNl2m-ghc9.0.1.so","libHScryptonite-conduit-0.2.2-6YNZi94xhxp2iZbtswNl2m-ghc9.0.1.dylib","HScryptonite-conduit-0.2.2-6YNZi94xhxp2iZbtswNl2m-ghc9.0.1.dll"] on library path
+There are problems in package neat-interpolation-0.5.1.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-neat-interpolation/html/neat-interpolation.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-neat-interpolation/html doesn't exist or isn't a directory
+  cannot find any of ["libHSneat-interpolation-0.5.1.2-FTDsQRnLCDfDcE5Nh2cQh4.a","libHSneat-interpolation-0.5.1.2-FTDsQRnLCDfDcE5Nh2cQh4_p.a","libHSneat-interpolation-0.5.1.2-FTDsQRnLCDfDcE5Nh2cQh4-ghc9.0.1.so","libHSneat-interpolation-0.5.1.2-FTDsQRnLCDfDcE5Nh2cQh4-ghc9.0.1.dylib","HSneat-interpolation-0.5.1.2-FTDsQRnLCDfDcE5Nh2cQh4-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-lifted-base/html/lifted-base.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-lifted-base/html doesn't exist or isn't a directory
+There are problems in package persistent-sqlite-2.13.0.3:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-persistent-sqlite/html/persistent-sqlite.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-persistent-sqlite/html doesn't exist or isn't a directory
+  cannot find any of ["libHSpersistent-sqlite-2.13.0.3-CCMjDURHSMgAe27WndRE5b.a","libHSpersistent-sqlite-2.13.0.3-CCMjDURHSMgAe27WndRE5b_p.a","libHSpersistent-sqlite-2.13.0.3-CCMjDURHSMgAe27WndRE5b-ghc9.0.1.so","libHSpersistent-sqlite-2.13.0.3-CCMjDURHSMgAe27WndRE5b-ghc9.0.1.dylib","HSpersistent-sqlite-2.13.0.3-CCMjDURHSMgAe27WndRE5b-ghc9.0.1.dll"] on library path
+There are problems in package regex-applicative-0.3.4:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-regex-applicative/html/regex-applicative.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-regex-applicative/html doesn't exist or isn't a directory
+  cannot find any of ["libHSregex-applicative-0.3.4-DNZZYFpFtwP809fyUNGZeR.a","libHSregex-applicative-0.3.4-DNZZYFpFtwP809fyUNGZeR_p.a","libHSregex-applicative-0.3.4-DNZZYFpFtwP809fyUNGZeR-ghc9.0.1.so","libHSregex-applicative-0.3.4-DNZZYFpFtwP809fyUNGZeR-ghc9.0.1.dylib","HSregex-applicative-0.3.4-DNZZYFpFtwP809fyUNGZeR-ghc9.0.1.dll"] on library path
+There are problems in package semigroupoids-5.3.5:
+  Warning: library-dirs: /usr/lib/ghc-9.0.1/site-local/semigroupoids-5.3.5 doesn't exist or isn't a directory
+  Warning: haddock-interfaces: /usr/share/doc/haskell-semigroupoids/html/semigroupoids.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-semigroupoids/html doesn't exist or isn't a directory
+  import-dirs: /usr/lib/ghc-9.0.1/site-local/semigroupoids-5.3.5 doesn't exist or isn't a directory
+  cannot find any of ["Data/Bifunctor/Apply.hi","Data/Bifunctor/Apply.p_hi","Data/Bifunctor/Apply.dyn_hi"]
+  cannot find any of ["Data/Functor/Alt.hi","Data/Functor/Alt.p_hi","Data/Functor/Alt.dyn_hi"]
+  cannot find any of ["Data/Functor/Apply.hi","Data/Functor/Apply.p_hi","Data/Functor/Apply.dyn_hi"]
+  cannot find any of ["Data/Functor/Bind.hi","Data/Functor/Bind.p_hi","Data/Functor/Bind.dyn_hi"]
+  cannot find any of ["Data/Functor/Bind/Class.hi","Data/Functor/Bind/Class.p_hi","Data/Functor/Bind/Class.dyn_hi"]
+  cannot find any of ["Data/Functor/Bind/Trans.hi","Data/Functor/Bind/Trans.p_hi","Data/Functor/Bind/Trans.dyn_hi"]
+  cannot find any of ["Data/Functor/Extend.hi","Data/Functor/Extend.p_hi","Data/Functor/Extend.dyn_hi"]
+  cannot find any of ["Data/Functor/Plus.hi","Data/Functor/Plus.p_hi","Data/Functor/Plus.dyn_hi"]
+  cannot find any of ["Data/Groupoid.hi","Data/Groupoid.p_hi","Data/Groupoid.dyn_hi"]
+  cannot find any of ["Data/Isomorphism.hi","Data/Isomorphism.p_hi","Data/Isomorphism.dyn_hi"]
+  cannot find any of ["Data/Semigroup/Bifoldable.hi","Data/Semigroup/Bifoldable.p_hi","Data/Semigroup/Bifoldable.dyn_hi"]
+  cannot find any of ["Data/Semigroup/Bitraversable.hi","Data/Semigroup/Bitraversable.p_hi","Data/Semigroup/Bitraversable.dyn_hi"]
+  cannot find any of ["Data/Semigroup/Foldable.hi","Data/Semigroup/Foldable.p_hi","Data/Semigroup/Foldable.dyn_hi"]
+  cannot find any of ["Data/Semigroup/Foldable/Class.hi","Data/Semigroup/Foldable/Class.p_hi","Data/Semigroup/Foldable/Class.dyn_hi"]
+  cannot find any of ["Data/Semigroup/Traversable.hi","Data/Semigroup/Traversable.p_hi","Data/Semigroup/Traversable.dyn_hi"]
+  cannot find any of ["Data/Semigroup/Traversable/Class.hi","Data/Semigroup/Traversable/Class.p_hi","Data/Semigroup/Traversable/Class.dyn_hi"]
+  cannot find any of ["Data/Semigroupoid.hi","Data/Semigroupoid.p_hi","Data/Semigroupoid.dyn_hi"]
+  cannot find any of ["Data/Semigroupoid/Dual.hi","Data/Semigroupoid/Dual.p_hi","Data/Semigroupoid/Dual.dyn_hi"]
+  cannot find any of ["Data/Semigroupoid/Ob.hi","Data/Semigroupoid/Ob.p_hi","Data/Semigroupoid/Ob.dyn_hi"]
+  cannot find any of ["Data/Semigroupoid/Static.hi","Data/Semigroupoid/Static.p_hi","Data/Semigroupoid/Static.dyn_hi"]
+  cannot find any of ["Data/Traversable/Instances.hi","Data/Traversable/Instances.p_hi","Data/Traversable/Instances.dyn_hi"]
+  cannot find any of ["libHSsemigroupoids-5.3.5-714uOfytTa837elZx7SBCk.a","libHSsemigroupoids-5.3.5-714uOfytTa837elZx7SBCk_p.a","libHSsemigroupoids-5.3.5-714uOfytTa837elZx7SBCk-ghc9.0.1.so","libHSsemigroupoids-5.3.5-714uOfytTa837elZx7SBCk-ghc9.0.1.dylib","HSsemigroupoids-5.3.5-714uOfytTa837elZx7SBCk-ghc9.0.1.dll"] on library path
+There are problems in package async-2.2.3:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-async/html/async.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-async/html doesn't exist or isn't a directory
+  cannot find any of ["libHSasync-2.2.3-KG7Du60y7DvAqBDAYoSjqL.a","libHSasync-2.2.3-KG7Du60y7DvAqBDAYoSjqL_p.a","libHSasync-2.2.3-KG7Du60y7DvAqBDAYoSjqL-ghc9.0.1.so","libHSasync-2.2.3-KG7Du60y7DvAqBDAYoSjqL-ghc9.0.1.dylib","HSasync-2.2.3-KG7Du60y7DvAqBDAYoSjqL-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-base16-bytestring/html/base16-bytestring.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-base16-bytestring/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-neat-interpolation/html/neat-interpolation.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-neat-interpolation/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-commonmark-pandoc/html/commonmark-pandoc.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-commonmark-pandoc/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-texmath/html/texmath.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-texmath/html doesn't exist or isn't a directory
+There are problems in package casa-client-0.0.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-casa-client/html/casa-client.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-casa-client/html doesn't exist or isn't a directory
+  cannot find any of ["libHScasa-client-0.0.1-5IzxyRkU1YuBZlXMzTZOZZ.a","libHScasa-client-0.0.1-5IzxyRkU1YuBZlXMzTZOZZ_p.a","libHScasa-client-0.0.1-5IzxyRkU1YuBZlXMzTZOZZ-ghc9.0.1.so","libHScasa-client-0.0.1-5IzxyRkU1YuBZlXMzTZOZZ-ghc9.0.1.dylib","HScasa-client-0.0.1-5IzxyRkU1YuBZlXMzTZOZZ-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-hslua-module-path/html/hslua-module-path.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hslua-module-path/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-errors/html/errors.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-errors/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-primitive/html/primitive.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-primitive/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-x509-store/html/x509-store.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-x509-store/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-mime-types/html/mime-types.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-mime-types/html doesn't exist or isn't a directory
+There are problems in package vector-0.12.3.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-vector/html/vector.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-vector/html doesn't exist or isn't a directory
+  cannot find any of ["libHSvector-0.12.3.1-KJ02XewdvWJHGa2GVFsQSX.a","libHSvector-0.12.3.1-KJ02XewdvWJHGa2GVFsQSX_p.a","libHSvector-0.12.3.1-KJ02XewdvWJHGa2GVFsQSX-ghc9.0.1.so","libHSvector-0.12.3.1-KJ02XewdvWJHGa2GVFsQSX-ghc9.0.1.dylib","HSvector-0.12.3.1-KJ02XewdvWJHGa2GVFsQSX-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-kan-extensions/html/kan-extensions.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-kan-extensions/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-zip-archive/html/zip-archive.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-zip-archive/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-basement/html/basement.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-basement/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-byteable/html/byteable.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-byteable/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-unix-compat/html/unix-compat.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-unix-compat/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-th-compat/html/th-compat.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-th-compat/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-zlib/html/zlib.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-zlib/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-extra/html/extra.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-extra/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-conduit-extra/html/conduit-extra.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-conduit-extra/html doesn't exist or isn't a directory
+There are problems in package iproute-1.7.11:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-iproute/html/iproute.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-iproute/html doesn't exist or isn't a directory
+  cannot find any of ["libHSiproute-1.7.11-5ezqbNJ6QlDEtZtRI03dJ8.a","libHSiproute-1.7.11-5ezqbNJ6QlDEtZtRI03dJ8_p.a","libHSiproute-1.7.11-5ezqbNJ6QlDEtZtRI03dJ8-ghc9.0.1.so","libHSiproute-1.7.11-5ezqbNJ6QlDEtZtRI03dJ8-ghc9.0.1.dylib","HSiproute-1.7.11-5ezqbNJ6QlDEtZtRI03dJ8-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-data-default/html/data-default.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-data-default/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/ghc-bignum-1.0/ghc-bignum.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/ghc-bignum-1.0 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-data-default-class/html/data-default-class.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-data-default-class/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-text-metrics/html/text-metrics.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-text-metrics/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-base-compat-batteries/html/base-compat-batteries.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-base-compat-batteries/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/unix-2.7.2.2/unix.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/unix-2.7.2.2 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-xml/html/xml.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-xml/html doesn't exist or isn't a directory
+There are problems in package filtrable-0.1.6.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-filtrable/html/filtrable.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-filtrable/html doesn't exist or isn't a directory
+  cannot find any of ["libHSfiltrable-0.1.6.0-GXQCCiHHFRwGVLje8cwZ8e.a","libHSfiltrable-0.1.6.0-GXQCCiHHFRwGVLje8cwZ8e_p.a","libHSfiltrable-0.1.6.0-GXQCCiHHFRwGVLje8cwZ8e-ghc9.0.1.so","libHSfiltrable-0.1.6.0-GXQCCiHHFRwGVLje8cwZ8e-ghc9.0.1.dylib","HSfiltrable-0.1.6.0-GXQCCiHHFRwGVLje8cwZ8e-ghc9.0.1.dll"] on library path
+There are problems in package stm-chans-3.0.0.4:
+  Warning: library-dirs: /usr/lib/ghc-9.0.1/site-local/stm-chans-3.0.0.4 doesn't exist or isn't a directory
+  Warning: haddock-interfaces: /usr/share/doc/haskell-stm-chans/html/stm-chans.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-stm-chans/html doesn't exist or isn't a directory
+  import-dirs: /usr/lib/ghc-9.0.1/site-local/stm-chans-3.0.0.4 doesn't exist or isn't a directory
+  cannot find any of ["Control/Concurrent/STM/TBChan.hi","Control/Concurrent/STM/TBChan.p_hi","Control/Concurrent/STM/TBChan.dyn_hi"]
+  cannot find any of ["Control/Concurrent/STM/TBMChan.hi","Control/Concurrent/STM/TBMChan.p_hi","Control/Concurrent/STM/TBMChan.dyn_hi"]
+  cannot find any of ["Control/Concurrent/STM/TBMQueue.hi","Control/Concurrent/STM/TBMQueue.p_hi","Control/Concurrent/STM/TBMQueue.dyn_hi"]
+  cannot find any of ["Control/Concurrent/STM/TMChan.hi","Control/Concurrent/STM/TMChan.p_hi","Control/Concurrent/STM/TMChan.dyn_hi"]
+  cannot find any of ["Control/Concurrent/STM/TMQueue.hi","Control/Concurrent/STM/TMQueue.p_hi","Control/Concurrent/STM/TMQueue.dyn_hi"]
+  cannot find any of ["libHSstm-chans-3.0.0.4-JaCKTIrTqQsE12KvNGyu2w.a","libHSstm-chans-3.0.0.4-JaCKTIrTqQsE12KvNGyu2w_p.a","libHSstm-chans-3.0.0.4-JaCKTIrTqQsE12KvNGyu2w-ghc9.0.1.so","libHSstm-chans-3.0.0.4-JaCKTIrTqQsE12KvNGyu2w-ghc9.0.1.dylib","HSstm-chans-3.0.0.4-JaCKTIrTqQsE12KvNGyu2w-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-filtrable/html/filtrable.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-filtrable/html doesn't exist or isn't a directory
+There are problems in package transformers-base-0.4.6:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-transformers-base/html/transformers-base.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-transformers-base/html doesn't exist or isn't a directory
+  cannot find any of ["libHStransformers-base-0.4.6-AfHPvxbHl4uCAVG5DYtFvV.a","libHStransformers-base-0.4.6-AfHPvxbHl4uCAVG5DYtFvV_p.a","libHStransformers-base-0.4.6-AfHPvxbHl4uCAVG5DYtFvV-ghc9.0.1.so","libHStransformers-base-0.4.6-AfHPvxbHl4uCAVG5DYtFvV-ghc9.0.1.dylib","HStransformers-base-0.4.6-AfHPvxbHl4uCAVG5DYtFvV-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-netlink/html/netlink.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-netlink/html doesn't exist or isn't a directory
+There are problems in package libyaml-0.1.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-libyaml/html/libyaml.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-libyaml/html doesn't exist or isn't a directory
+  cannot find any of ["libHSlibyaml-0.1.2-MuvHgfnMeVG1h4CQLemtB.a","libHSlibyaml-0.1.2-MuvHgfnMeVG1h4CQLemtB_p.a","libHSlibyaml-0.1.2-MuvHgfnMeVG1h4CQLemtB-ghc9.0.1.so","libHSlibyaml-0.1.2-MuvHgfnMeVG1h4CQLemtB-ghc9.0.1.dylib","HSlibyaml-0.1.2-MuvHgfnMeVG1h4CQLemtB-ghc9.0.1.dll"] on library path
+There are problems in package attoparsec-0.14.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-attoparsec/html/attoparsec.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-attoparsec/html doesn't exist or isn't a directory
+  cannot find any of ["libHSattoparsec-0.14.1-FCw2YbaswCt6roS8dkagL4.a","libHSattoparsec-0.14.1-FCw2YbaswCt6roS8dkagL4_p.a","libHSattoparsec-0.14.1-FCw2YbaswCt6roS8dkagL4-ghc9.0.1.so","libHSattoparsec-0.14.1-FCw2YbaswCt6roS8dkagL4-ghc9.0.1.dylib","HSattoparsec-0.14.1-FCw2YbaswCt6roS8dkagL4-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/directory-1.3.6.1/directory.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/directory-1.3.6.1 doesn't exist or isn't a directory
+There are problems in package casa-types-0.0.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-casa-types/html/casa-types.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-casa-types/html doesn't exist or isn't a directory
+  cannot find any of ["libHScasa-types-0.0.2-Ihd4R6khT3fFZ990hPrJH8.a","libHScasa-types-0.0.2-Ihd4R6khT3fFZ990hPrJH8_p.a","libHScasa-types-0.0.2-Ihd4R6khT3fFZ990hPrJH8-ghc9.0.1.so","libHScasa-types-0.0.2-Ihd4R6khT3fFZ990hPrJH8-ghc9.0.1.dylib","HScasa-types-0.0.2-Ihd4R6khT3fFZ990hPrJH8-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-network-uri/html/network-uri.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-network-uri/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-fast-logger/html/fast-logger.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-fast-logger/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-pem/html/pem.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-pem/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/ghc-boot-th-9.0.1/ghc-boot-th.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/ghc-boot-th-9.0.1 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-data-default-instances-containers/html/data-default-instances-containers.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-data-default-instances-containers/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-http-conduit/html/http-conduit.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-http-conduit/html doesn't exist or isn't a directory
+There are problems in package th-compat-0.1.3:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-th-compat/html/th-compat.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-th-compat/html doesn't exist or isn't a directory
+  cannot find any of ["libHSth-compat-0.1.3-9AFFBq76LADK2ZN98E4EZ0.a","libHSth-compat-0.1.3-9AFFBq76LADK2ZN98E4EZ0_p.a","libHSth-compat-0.1.3-9AFFBq76LADK2ZN98E4EZ0-ghc9.0.1.so","libHSth-compat-0.1.3-9AFFBq76LADK2ZN98E4EZ0-ghc9.0.1.dylib","HSth-compat-0.1.3-9AFFBq76LADK2ZN98E4EZ0-ghc9.0.1.dll"] on library path
+There are problems in package case-insensitive-1.2.1.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-case-insensitive/html/case-insensitive.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-case-insensitive/html doesn't exist or isn't a directory
+  cannot find any of ["libHScase-insensitive-1.2.1.0-3Jvgx8NTNrGIQPGdLKdwuc.a","libHScase-insensitive-1.2.1.0-3Jvgx8NTNrGIQPGdLKdwuc_p.a","libHScase-insensitive-1.2.1.0-3Jvgx8NTNrGIQPGdLKdwuc-ghc9.0.1.so","libHScase-insensitive-1.2.1.0-3Jvgx8NTNrGIQPGdLKdwuc-ghc9.0.1.dylib","HScase-insensitive-1.2.1.0-3Jvgx8NTNrGIQPGdLKdwuc-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-tagged/html/tagged.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-tagged/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-profunctors/html/profunctors.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-profunctors/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/containers-0.6.4.1/containers.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/containers-0.6.4.1 doesn't exist or isn't a directory
+There are problems in package hinotify-0.4.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hinotify/html/hinotify.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hinotify/html doesn't exist or isn't a directory
+  cannot find any of ["libHShinotify-0.4.1-GGBizUWiBm6Eo6G5a5RViE.a","libHShinotify-0.4.1-GGBizUWiBm6Eo6G5a5RViE_p.a","libHShinotify-0.4.1-GGBizUWiBm6Eo6G5a5RViE-ghc9.0.1.so","libHShinotify-0.4.1-GGBizUWiBm6Eo6G5a5RViE-ghc9.0.1.dylib","HShinotify-0.4.1-GGBizUWiBm6Eo6G5a5RViE-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-temporary/html/temporary.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-temporary/html doesn't exist or isn't a directory
+There are problems in package path-0.9.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-path/html/path.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-path/html doesn't exist or isn't a directory
+  cannot find any of ["libHSpath-0.9.0-Jsb8oLcJNZ1BNBhu5U2Kh1.a","libHSpath-0.9.0-Jsb8oLcJNZ1BNBhu5U2Kh1_p.a","libHSpath-0.9.0-Jsb8oLcJNZ1BNBhu5U2Kh1-ghc9.0.1.so","libHSpath-0.9.0-Jsb8oLcJNZ1BNBhu5U2Kh1-ghc9.0.1.dylib","HSpath-0.9.0-Jsb8oLcJNZ1BNBhu5U2Kh1-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-skylighting-core/html/skylighting-core.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-skylighting-core/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-xml-types/html/xml-types.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-xml-types/html doesn't exist or isn't a directory
+There are problems in package resource-pool-0.2.3.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-resource-pool/html/resource-pool.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-resource-pool/html doesn't exist or isn't a directory
+  cannot find any of ["libHSresource-pool-0.2.3.2-FPX8ZhcYqBbAzyTxLgHYVW.a","libHSresource-pool-0.2.3.2-FPX8ZhcYqBbAzyTxLgHYVW_p.a","libHSresource-pool-0.2.3.2-FPX8ZhcYqBbAzyTxLgHYVW-ghc9.0.1.so","libHSresource-pool-0.2.3.2-FPX8ZhcYqBbAzyTxLgHYVW-ghc9.0.1.dylib","HSresource-pool-0.2.3.2-FPX8ZhcYqBbAzyTxLgHYVW-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/haskeline-0.8.1.0/haskeline.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/haskeline-0.8.1.0 doesn't exist or isn't a directory
+There are problems in package rio-orphans-0.1.2.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-rio-orphans/html/rio-orphans.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-rio-orphans/html doesn't exist or isn't a directory
+  cannot find any of ["libHSrio-orphans-0.1.2.0-6ONjUmyZAKZAxMIfx5qofh.a","libHSrio-orphans-0.1.2.0-6ONjUmyZAKZAxMIfx5qofh_p.a","libHSrio-orphans-0.1.2.0-6ONjUmyZAKZAxMIfx5qofh-ghc9.0.1.so","libHSrio-orphans-0.1.2.0-6ONjUmyZAKZAxMIfx5qofh-ghc9.0.1.dylib","HSrio-orphans-0.1.2.0-6ONjUmyZAKZAxMIfx5qofh-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/xmonad/html/xmonad.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/xmonad/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-indexed-traversable/html/indexed-traversable.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-indexed-traversable/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-ipynb/html/ipynb.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ipynb/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-x509-validation/html/x509-validation.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-x509-validation/html doesn't exist or isn't a directory
+There are problems in package x509-store-1.6.7:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-x509-store/html/x509-store.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-x509-store/html doesn't exist or isn't a directory
+  cannot find any of ["libHSx509-store-1.6.7-2fW7jpHzTag2EuwulOnRp8.a","libHSx509-store-1.6.7-2fW7jpHzTag2EuwulOnRp8_p.a","libHSx509-store-1.6.7-2fW7jpHzTag2EuwulOnRp8-ghc9.0.1.so","libHSx509-store-1.6.7-2fW7jpHzTag2EuwulOnRp8-ghc9.0.1.dylib","HSx509-store-1.6.7-2fW7jpHzTag2EuwulOnRp8-ghc9.0.1.dll"] on library path
+There are problems in package time-compat-1.9.6.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-time-compat/html/time-compat.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-time-compat/html doesn't exist or isn't a directory
+  cannot find any of ["libHStime-compat-1.9.6.1-74DLQSiinrV5Zepvuhk4nM.a","libHStime-compat-1.9.6.1-74DLQSiinrV5Zepvuhk4nM_p.a","libHStime-compat-1.9.6.1-74DLQSiinrV5Zepvuhk4nM-ghc9.0.1.so","libHStime-compat-1.9.6.1-74DLQSiinrV5Zepvuhk4nM-ghc9.0.1.dylib","HStime-compat-1.9.6.1-74DLQSiinrV5Zepvuhk4nM-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-http-types/html/http-types.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-http-types/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-x509/html/x509.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-x509/html doesn't exist or isn't a directory
+There are problems in package x509-system-1.6.6:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-x509-system/html/x509-system.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-x509-system/html doesn't exist or isn't a directory
+  cannot find any of ["libHSx509-system-1.6.6-GVjAU74BEyBAMcXrmtvpbj.a","libHSx509-system-1.6.6-GVjAU74BEyBAMcXrmtvpbj_p.a","libHSx509-system-1.6.6-GVjAU74BEyBAMcXrmtvpbj-ghc9.0.1.so","libHSx509-system-1.6.6-GVjAU74BEyBAMcXrmtvpbj-ghc9.0.1.dylib","HSx509-system-1.6.6-GVjAU74BEyBAMcXrmtvpbj-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-hourglass/html/hourglass.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hourglass/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-digest/html/digest.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-digest/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/ghci-9.0.1/ghci.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/ghci-9.0.1 doesn't exist or isn't a directory
+There are problems in package asn1-encoding-0.9.6:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-asn1-encoding/html/asn1-encoding.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-asn1-encoding/html doesn't exist or isn't a directory
+  cannot find any of ["libHSasn1-encoding-0.9.6-5XtYYAq0rS7BvOk5x6bkmz.a","libHSasn1-encoding-0.9.6-5XtYYAq0rS7BvOk5x6bkmz_p.a","libHSasn1-encoding-0.9.6-5XtYYAq0rS7BvOk5x6bkmz-ghc9.0.1.so","libHSasn1-encoding-0.9.6-5XtYYAq0rS7BvOk5x6bkmz-ghc9.0.1.dylib","HSasn1-encoding-0.9.6-5XtYYAq0rS7BvOk5x6bkmz-ghc9.0.1.dll"] on library path
+There are problems in package lukko-0.1.1.3:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-lukko/html/lukko.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-lukko/html doesn't exist or isn't a directory
+  cannot find any of ["libHSlukko-0.1.1.3-GcukiK7PWPbFZIOmNJgNDe.a","libHSlukko-0.1.1.3-GcukiK7PWPbFZIOmNJgNDe_p.a","libHSlukko-0.1.1.3-GcukiK7PWPbFZIOmNJgNDe-ghc9.0.1.so","libHSlukko-0.1.1.3-GcukiK7PWPbFZIOmNJgNDe-ghc9.0.1.dylib","HSlukko-0.1.1.3-GcukiK7PWPbFZIOmNJgNDe-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-strict/html/strict.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-strict/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-x11/html/X11.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-x11/html doesn't exist or isn't a directory
+There are problems in package generic-deriving-1.14.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-generic-deriving/html/generic-deriving.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-generic-deriving/html doesn't exist or isn't a directory
+  cannot find any of ["libHSgeneric-deriving-1.14.1-BAFuDYzrSHx7DKuJM3HYB8.a","libHSgeneric-deriving-1.14.1-BAFuDYzrSHx7DKuJM3HYB8_p.a","libHSgeneric-deriving-1.14.1-BAFuDYzrSHx7DKuJM3HYB8-ghc9.0.1.so","libHSgeneric-deriving-1.14.1-BAFuDYzrSHx7DKuJM3HYB8-ghc9.0.1.dylib","HSgeneric-deriving-1.14.1-BAFuDYzrSHx7DKuJM3HYB8-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-hackage-security/html/hackage-security.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hackage-security/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-regex-applicative-text/html/regex-applicative-text.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-regex-applicative-text/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-xml-conduit/html/xml-conduit.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-xml-conduit/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/template-haskell-2.17.0.0/template-haskell.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/template-haskell-2.17.0.0 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-cmdargs/html/cmdargs.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-cmdargs/html doesn't exist or isn't a directory
+There are problems in package aeson-1.5.6.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-aeson/html/aeson.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-aeson/html doesn't exist or isn't a directory
+  cannot find any of ["libHSaeson-1.5.6.0-HjRPlMbeXBZ4yuplu15455.a","libHSaeson-1.5.6.0-HjRPlMbeXBZ4yuplu15455_p.a","libHSaeson-1.5.6.0-HjRPlMbeXBZ4yuplu15455-ghc9.0.1.so","libHSaeson-1.5.6.0-HjRPlMbeXBZ4yuplu15455-ghc9.0.1.dylib","HSaeson-1.5.6.0-HjRPlMbeXBZ4yuplu15455-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-stm-chans/html/stm-chans.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-stm-chans/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-megaparsec/html/megaparsec.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-megaparsec/html doesn't exist or isn't a directory
+There are problems in package x509-1.7.5:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-x509/html/x509.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-x509/html doesn't exist or isn't a directory
+  cannot find any of ["libHSx509-1.7.5-BeTjZ9honrJDPfFJob1Eml.a","libHSx509-1.7.5-BeTjZ9honrJDPfFJob1Eml_p.a","libHSx509-1.7.5-BeTjZ9honrJDPfFJob1Eml-ghc9.0.1.so","libHSx509-1.7.5-BeTjZ9honrJDPfFJob1Eml-ghc9.0.1.dylib","HSx509-1.7.5-BeTjZ9honrJDPfFJob1Eml-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-glob/html/Glob.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-glob/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-base-orphans/html/base-orphans.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-base-orphans/html doesn't exist or isn't a directory
+There are problems in package fsnotify-0.3.0.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-fsnotify/html/fsnotify.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-fsnotify/html doesn't exist or isn't a directory
+  cannot find any of ["libHSfsnotify-0.3.0.1-Lnl4uC7d9eU1sDb3hgE6CV.a","libHSfsnotify-0.3.0.1-Lnl4uC7d9eU1sDb3hgE6CV_p.a","libHSfsnotify-0.3.0.1-Lnl4uC7d9eU1sDb3hgE6CV-ghc9.0.1.so","libHSfsnotify-0.3.0.1-Lnl4uC7d9eU1sDb3hgE6CV-ghc9.0.1.dylib","HSfsnotify-0.3.0.1-Lnl4uC7d9eU1sDb3hgE6CV-ghc9.0.1.dll"] on library path
+There are problems in package data-fix-0.3.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-data-fix/html/data-fix.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-data-fix/html doesn't exist or isn't a directory
+  cannot find any of ["libHSdata-fix-0.3.2-Bonc5cybD21JB8mtDFjnbI.a","libHSdata-fix-0.3.2-Bonc5cybD21JB8mtDFjnbI_p.a","libHSdata-fix-0.3.2-Bonc5cybD21JB8mtDFjnbI-ghc9.0.1.so","libHSdata-fix-0.3.2-Bonc5cybD21JB8mtDFjnbI-ghc9.0.1.dylib","HSdata-fix-0.3.2-Bonc5cybD21JB8mtDFjnbI-ghc9.0.1.dll"] on library path
+There are problems in package attoparsec-iso8601-1.0.2.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-attoparsec-iso8601/html/attoparsec-iso8601.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-attoparsec-iso8601/html doesn't exist or isn't a directory
+  cannot find any of ["libHSattoparsec-iso8601-1.0.2.0-BQoy1XQRQWkGr4gs86dNpT.a","libHSattoparsec-iso8601-1.0.2.0-BQoy1XQRQWkGr4gs86dNpT_p.a","libHSattoparsec-iso8601-1.0.2.0-BQoy1XQRQWkGr4gs86dNpT-ghc9.0.1.so","libHSattoparsec-iso8601-1.0.2.0-BQoy1XQRQWkGr4gs86dNpT-ghc9.0.1.dylib","HSattoparsec-iso8601-1.0.2.0-BQoy1XQRQWkGr4gs86dNpT-ghc9.0.1.dll"] on library path
+There are problems in package network-3.1.2.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-network/html/network.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-network/html doesn't exist or isn't a directory
+  cannot find any of ["libHSnetwork-3.1.2.2-AIHAQTgcOP2p9DGqwUMBL.a","libHSnetwork-3.1.2.2-AIHAQTgcOP2p9DGqwUMBL_p.a","libHSnetwork-3.1.2.2-AIHAQTgcOP2p9DGqwUMBL-ghc9.0.1.so","libHSnetwork-3.1.2.2-AIHAQTgcOP2p9DGqwUMBL-ghc9.0.1.dylib","HSnetwork-3.1.2.2-AIHAQTgcOP2p9DGqwUMBL-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/process-1.6.11.0/process.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/process-1.6.11.0 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-uuid-types/html/uuid-types.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-uuid-types/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-microlens-mtl/html/microlens-mtl.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-microlens-mtl/html doesn't exist or isn't a directory
+There are problems in package infer-license-0.2.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-infer-license/html/infer-license.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-infer-license/html doesn't exist or isn't a directory
+  cannot find any of ["libHSinfer-license-0.2.0-29VN4sRQSMiEOgTkpAC2v5.a","libHSinfer-license-0.2.0-29VN4sRQSMiEOgTkpAC2v5_p.a","libHSinfer-license-0.2.0-29VN4sRQSMiEOgTkpAC2v5-ghc9.0.1.so","libHSinfer-license-0.2.0-29VN4sRQSMiEOgTkpAC2v5-ghc9.0.1.dylib","HSinfer-license-0.2.0-29VN4sRQSMiEOgTkpAC2v5-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/ghc/html/libraries/bytestring-0.10.12.1/bytestring.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/ghc/html/libraries/bytestring-0.10.12.1 doesn't exist or isn't a directory
+There are problems in package http-conduit-2.3.8:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-http-conduit/html/http-conduit.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-http-conduit/html doesn't exist or isn't a directory
+  cannot find any of ["libHShttp-conduit-2.3.8-Lh7L7GlhRci9jUUA0HlUTl.a","libHShttp-conduit-2.3.8-Lh7L7GlhRci9jUUA0HlUTl_p.a","libHShttp-conduit-2.3.8-Lh7L7GlhRci9jUUA0HlUTl-ghc9.0.1.so","libHShttp-conduit-2.3.8-Lh7L7GlhRci9jUUA0HlUTl-ghc9.0.1.dylib","HShttp-conduit-2.3.8-Lh7L7GlhRci9jUUA0HlUTl-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-connection/html/connection.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-connection/html doesn't exist or isn't a directory
+There are problems in package enclosed-exceptions-1.0.3:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-enclosed-exceptions/html/enclosed-exceptions.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-enclosed-exceptions/html doesn't exist or isn't a directory
+  cannot find any of ["libHSenclosed-exceptions-1.0.3-LZcdib6gvvGDYc1L9TJ4iS.a","libHSenclosed-exceptions-1.0.3-LZcdib6gvvGDYc1L9TJ4iS_p.a","libHSenclosed-exceptions-1.0.3-LZcdib6gvvGDYc1L9TJ4iS-ghc9.0.1.so","libHSenclosed-exceptions-1.0.3-LZcdib6gvvGDYc1L9TJ4iS-ghc9.0.1.dylib","HSenclosed-exceptions-1.0.3-LZcdib6gvvGDYc1L9TJ4iS-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-lens/html/lens.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-lens/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-doctemplates/html/doctemplates.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-doctemplates/html doesn't exist or isn't a directory
+There are problems in package asn1-types-0.3.4:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-asn1-types/html/asn1-types.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-asn1-types/html doesn't exist or isn't a directory
+  cannot find any of ["libHSasn1-types-0.3.4-GHSCoHAy1x2IrG6lU3CMDW.a","libHSasn1-types-0.3.4-GHSCoHAy1x2IrG6lU3CMDW_p.a","libHSasn1-types-0.3.4-GHSCoHAy1x2IrG6lU3CMDW-ghc9.0.1.so","libHSasn1-types-0.3.4-GHSCoHAy1x2IrG6lU3CMDW-ghc9.0.1.dylib","HSasn1-types-0.3.4-GHSCoHAy1x2IrG6lU3CMDW-ghc9.0.1.dll"] on library path
+Warning: haddock-interfaces: /usr/share/doc/haskell-tar/html/tar.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-tar/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-old-locale/html/old-locale.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-old-locale/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-async/html/async.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-async/html doesn't exist or isn't a directory
+
+The following packages are broken, either because they have a problem
+listed above, or because they depend on a broken package.
+Glob-0.10.1
+comonad-5.0.8
+unix-time-0.4.7
+primitive-0.7.2.0
+these-1.1.1.1
+conduit-extra-1.3.5
+transformers-compat-0.7
+base64-bytestring-1.2.1.0
+extra-1.7.10
+zip-archive-0.4.1
+constraints-0.13
+clock-0.8.2
+typed-process-0.2.6.2
+distributive-0.6.2.1
+zlib-0.6.2.3
+pem-0.2.4
+tls-1.5.5
+uuid-types-1.0.5
+blaze-html-0.9.1.2
+monad-logger-0.3.36
+unicode-transforms-0.3.8
+resourcet-1.2.4.3
+conduit-1.3.4.2
+dlist-1.0
+optparse-simple-0.1.1.4
+githash-0.1.6.2
+rio-0.1.21.0
+http-types-0.12.3
+rio-prettyprint-0.1.1.0
+tar-0.5.1.1
+socks-0.6.1
+lifted-async-0.10.2.1
+fast-logger-3.0.5
+base-orphans-0.8.4
+cryptonite-0.29
+hackage-security-0.6.0.1
+base16-bytestring-1.0.1.0
+random-1.2.1
+splitmix-0.1.0.3
+http-client-tls-0.3.5.3
+path-io-1.6.3
+asn1-parse-0.9.5
+base-compat-batteries-0.11.2
+auto-update-0.1.6
+lifted-base-0.2.3.12
+assoc-1.0.2
+connection-0.3.1
+streaming-commons-0.2.2.1
+tar-conduit-0.3.2
+optparse-generic-1.4.5
+microlens-mtl-0.2.0.1
+ansi-wl-pprint-0.6.9
+safe-exceptions-0.1.7.2
+optparse-applicative-0.16.1.0
+regex-applicative-text-0.1.0.1
+hourglass-0.2.12
+either-5.0.1.1
+system-filepath-0.4.14
+unliftio-0.2.20
+strict-0.4.0.1
+megaparsec-9.1.0
+profunctors-5.6.2
+blaze-builder-0.4.2.1
+mono-traversable-1.0.15.3
+text-metrics-0.3.1
+unordered-containers-0.2.14.0
+colour-2.3.6
+pantry-0.5.2.3
+project-template-0.2.1.0
+x509-validation-1.6.11
+yaml-0.11.6.0
+blaze-markup-0.8.2.8
+temporary-1.3
+http-api-data-0.4.3
+scientific-0.3.7.0
+hi-file-parser-0.1.2.0
+bifunctors-5.5.11
+vector-algorithms-0.8.0.4
+cereal-0.5.8.1
+network-uri-2.6.4.1
+http-client-0.7.9
+retry-0.9.0.0
+split-0.2.3.4
+shelly-1.9.0
+persistent-2.13.1.2
+http-download-0.2.0.0
+filelock-0.1.1.5
+th-lift-instances-0.1.18
+monad-control-1.0.3.1
+ansi-terminal-0.11
+hashable-1.3.3.0
+cryptonite-conduit-0.2.2
+neat-interpolation-0.5.1.2
+persistent-sqlite-2.13.0.3
+regex-applicative-0.3.4
+semigroupoids-5.3.5
+async-2.2.3
+casa-client-0.0.1
+vector-0.12.3.1
+iproute-1.7.11
+filtrable-0.1.6.0
+stm-chans-3.0.0.4
+transformers-base-0.4.6
+libyaml-0.1.2
+attoparsec-0.14.1
+casa-types-0.0.2
+th-compat-0.1.3
+case-insensitive-1.2.1.0
+hinotify-0.4.1
+path-0.9.0
+resource-pool-0.2.3.2
+rio-orphans-0.1.2.0
+x509-store-1.6.7
+time-compat-1.9.6.1
+x509-system-1.6.6
+asn1-encoding-0.9.6
+lukko-0.1.1.3
+generic-deriving-1.14.1
+aeson-1.5.6.0
+x509-1.7.5
+fsnotify-0.3.0.1
+data-fix-0.3.2
+attoparsec-iso8601-1.0.2.0
+network-3.1.2.2
+infer-license-0.2.0
+http-conduit-2.3.8
+enclosed-exceptions-1.0.3
+asn1-types-0.3.4
+indexed-traversable-instances-0.1
+text-conversions-0.3.1
+skylighting-0.11
+hpack-0.34.4
+pandoc-2.14.1
+JuicyPixels-3.3.6
+citeproc-0.4.1
+optparse-generic-1.4.6
+hslua-module-system-0.2.2.1
+stack-2.7.3
+unicode-collation-0.1.3.1
+typed-process-0.2.7.0
+commonmark-0.2.1
+uniplate-1.6.13
+invariant-0.5.4
+QuickCheck-2.14.2
+data-default-instances-dlist-0.0.1
+adjunctions-4.4
+libmpd-0.10.0.0
+commonmark-extensions-0.2.1.2
+yaml-0.11.7.0
+free-5.1.7
+xmonad-contrib-0.16
+aeson-pretty-0.8.9
+mustache-2.3.1
+pandoc-types-1.22
+semigroupoids-5.3.6
+HTTP-4000.3.16
+dbus-1.2.21
+commonmark-pandoc-0.2.1.1
+texmath-0.12.3.1
+kan-extensions-5.2.3
+data-default-0.7.1.1
+skylighting-core-0.11
+xmonad-0.15
+ipynb-0.1.0.1
+xml-conduit-1.9.1.1
+megaparsec-9.2.0
+Glob-0.10.2
+lens-5.0.1
+doctemplates-0.10.0.1

@@ -1,0 +1,9 @@
+resolver: lts-9.6
+packages:
+  - xmobar-git
+
+extra-deps: []
+flags:
+  xmobar:
+    all_extensions: true
+extra-package-dbs: []

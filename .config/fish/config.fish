@@ -14,7 +14,7 @@ alias choco='java -classpath /usr/local/lib/choco-solver-4.10.7-jar-with-depende
 alias ls='exa -1l --icons'
 alias grep='rg'
 #alias ranger='joshuto'
-alias ps='procs'
+#alias ps='procs'
 alias tlmgr='/usr/share/texmf-dist/scripts/texlive/tlmgr.pl --usermode'
 
 # [ -f "/home/dymdym/.ghcup/env" ] && source "/home/dymdym/.ghcup/env" # ghcup-env
