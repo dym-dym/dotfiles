@@ -26,6 +26,7 @@ env:
   LC_TYPE: fr_FR.UTF-8
 
 window:
+  opacity: 0.9
   # Window dimensions (changes require restart)
   #
   # Number of lines/columns (not pixels) in the terminal. The number of columns
@@ -113,10 +114,10 @@ font:
     #   - (macOS) Menlo
     #   - (Linux/BSD) monospace
     #   - (Windows) Consolas
-    family: FiraCode Nerd Font
+    family: FiraCode Nerd Font Mono
 
     # The `style` can be specified to pick a specific face.
-    style: Retina
+    style: Regular
 
   # Bold font face
   bold:
@@ -154,7 +155,7 @@ font:
     #style: Bold Italic
 
   # Point size
-  size: 7
+  size: 10.5
 
   # Offset is the extra space around each character. `offset.y` can be thought
   # of as modifying the line spacing, and `offset.x` as modifying the letter
@@ -179,36 +180,74 @@ font:
 # If `true`, bold text is drawn using the bright color variants.
 draw_bold_text_with_bright_colors: true
 
+# Catppuccin!
 colors:
-  # Deus theme, based on:
-  # https://github.com/ajmwagar/vim-deus
-
   # Default colors
   primary:
-    background: '0x000000'
-    foreground: '0xeaeaea'
+    background: '0x1E1D2F'
+    foreground: '0xD9E0EE'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '0x1E1D2F'
+    cursor: '0xF5E0DC'
 
   # Normal colors
   normal:
-    black:   '0x242a32'
-    red:     '0xd54e53'
-    green:   '0x98c379'
-    yellow:  '0xe5c07b'
-    blue:    '0x83a598'
-    magenta: '0xc678dd'
-    cyan:    '0x70c0ba'
-    white:   '0xeaeaea'
+    black:   '0x6E6C7E'
+    red:     '0xF28FAD'
+    green:   '0xABE9B3'
+    yellow:  '0xFAE3B0'
+    blue:    '0x96CDFB'
+    magenta: '0xF5C2E7'
+    cyan:    '0x89DCEB'
+    white:   '0xD9E0EE'
 
   # Bright colors
   bright:
-    black:   '0x666666'
-    red:     '0xec3e45'
-    green:   '0x90c966'
-    yellow:  '0xedbf69'
-    blue:    '0x73ba9f'
-    magenta: '0xc858e9'
-    cyan:    '0x2bcec2'
-    white:   '0xffffff'
+    black:   '0x988BA2'
+    red:     '0xF28FAD'
+    green:   '0xABE9B3'
+    yellow:  '0xFAE3B0'
+    blue:    '0x96CDFB'
+    magenta: '0xF5C2E7'
+    cyan:    '0x89DCEB'
+    white:   '0xD9E0EE'
+
+  indexed_colors:
+    - { index: 16, color: '0xF8BD96' }
+    - { index: 17, color: '0xF5E0DC' }
+
+#colors:
+  ## Deus theme, based on:
+  ## https://github.com/ajmwagar/vim-deus
+#
+  ## Default colors
+  #primary:
+    #background: '0x000000'
+    #foreground: '0xeaeaea'
+#
+  ## Normal colors
+  #normal:
+    #black:   '0x242a32'
+    #red:     '0xd54e53'
+    #green:   '0x98c379'
+    #yellow:  '0xe5c07b'
+    #blue:    '0x83a598'
+    #magenta: '0xc678dd'
+    #cyan:    '0x70c0ba'
+    #white:   '0xeaeaea'
+#
+  ## Bright colors
+  #bright:
+    #black:   '0x666666'
+    #red:     '0xec3e45'
+    #green:   '0x90c966'
+    #yellow:  '0xedbf69'
+    #blue:    '0x73ba9f'
+    #magenta: '0xc858e9'
+    #cyan:    '0x2bcec2'
+    #white:   '0xffffff'
 
 # Colors (Tomorrow Night)
 #colors:
@@ -392,7 +431,6 @@ colors:
 #
 # Window opacity as a floating point number from `0.0` to `1.0`.
 # The value `0.0` is completely transparent and `1.0` is opaque.
-background_opacity: 0.9
 
 selection:
   # This string contains all characters that are used as separators for

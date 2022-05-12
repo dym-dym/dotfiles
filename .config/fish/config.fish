@@ -21,5 +21,9 @@ alias tlmgr='/usr/share/texmf-dist/scripts/texlive/tlmgr.pl --usermode'
 
 # export BW_SESSION="6z8JLaphvMi5caEQpy1mYKuZWDZbUtzrXJ/P6eW52w/YGN/lRBpkBip9NejtxPDHBkD7LApTKb1tQ/lA7yhQ4A=="
 
-fish_add_path -p /home/dymdym/.local/bin/ .
+fish_add_path -p bin/ /usr/bin/ /home/dymdym/.local/bin/ /home/dymdym/.ghcup/bin /home/dymdym/.cargo/bin/ /home/dymdym/.config/rofi/bin  .
 set -q GHCUP_INSTALL_BASE_PREFIX[1]; or set GHCUP_INSTALL_BASE_PREFIX $HOME ; set -gx PATH $HOME/.cabal/bin $PATH /home/dymdym/.ghcup/bin # ghcup-env
+
+# opam configuration
+source /home/dymdym/.opam/opam-init/init.fish > /dev/null 2> /dev/null; or true
+fish_add_path /home/dymdym/.spicetify

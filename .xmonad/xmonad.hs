@@ -1,3 +1,4 @@
+{-# OPTIONS_GHC -Wno-deprecations #-}
 import XMonad.Actions.Plane
 import XMonad.Actions.Promote
 import XMonad.Util.Dzen
@@ -95,7 +96,7 @@ myBorderWidth :: Dimension
 myBorderWidth = 2           -- Sets border width for windows
 
 myNormColor :: String
-myNormColor   = "#281c34"   -- Border color of normal windows
+myNormColor   = "#6E6C7E" -- "#281c34"   -- Border color of normal windows
 
 myFocusColor :: String
 myFocusColor  = "#FFFFFF"   -- Border color of focused windows
@@ -109,15 +110,16 @@ myStartupHook = do
   spawnOnce "killall trayer"
   spawnOnce "picom &"
   spawnOnce "nitrogen --restore &"
-  spawnOnce "nm-applet &"
+  -- spawnOnce "nm-applet &"
   spawnOnce "volumeicon &"
-  spawnOnce "sleep 2 && trayer --edge top --align right --widthtype request --padding 6 --SetDockType true --SetPartialStrut true --expand true --transparent true --alpha 0 --tint 0x282c34 --height 22 &"
+  spawnOnce "sleep 2 && trayer --edge bottom --align right --widthtype request --padding 6 --SetDockType true --SetPartialStrut true --expand true --transparent true --alpha 0 --tint 0x1e1e28 --height 22 &"
   setWMName "LG3D"
-  spawnOnce "sleep 2 && conky -c $HOME/.config/conky/Enif/Enif.conf &> /dev/null &"
-  spawnOnce "blueman-trayer &"
-  spawnOnce "cbatticon &"
+  -- spawnOnce "sleep 2 && conky -c $HOME/.config/conky/monitor.conkyrc &> /dev/null &"
+  spawnOnce "sleep 2 && conky -c $HOME/.config/conky/time.conkyrc &> /dev/null &"
+  -- spawnOnce "blueman-trayer &"
+  -- spawnOnce "cbatticon &"
   spawnOnce "copyq &"
-  spawnOnce "/usr/bin/emacs --daemon"
+  -- spawnOnce "/usr/bin/emacs --daemon"
 
 myColorizer :: Window -> Bool -> X (String, String)
 myColorizer = colorRangeFromClassName
@@ -150,18 +152,18 @@ spawnSelected' lst = gridselect conf lst >>= flip whenJust spawn
                    }
 
 myAppGrid = [ ("Telegram-desktop", "telegram-desktop")
-                 , ("VScode", "code-insiders")
-                 , ("Godot", "godot")
-                 , ("Firefox", "firefox")
-                 , ("VirtualBox", "virtualbox")
-                 , ("Kdenlive", "kdenlive")
-                 , ("WPS Writer", "wps")
-                 , ("WPS Sheets", "et")
-                 , ("WPS Presentation", "wpp")
-                 , ("OBS", "obs")
-                 , ("GitHub Desktop", "github-desktop")
-                 , ("Control Center", "systemsettings5") -- this on kde plasma 5 it could have a different command on another DE
-                 , ("Firefox Dev", "firefox-bin")
+                 -- , ("VScode", "code-insiders")
+                 -- , ("Godot", "godot")
+                 , ("Librewolf", "librewolf")
+                 -- , ("VirtualBox", "virtualbox")
+                 -- , ("Kdenlive", "kdenlive")
+                 -- , ("WPS Writer", "wps")
+                 -- , ("WPS Sheets", "et")
+                 -- , ("WPS Presentation", "wpp")
+                 -- , ("OBS", "obs")
+                 -- , ("GitHub Desktop", "github-desktop")
+                 -- , ("Control Center", "systemsettings5") -- this on kde plasma 5 it could have a different command on another DE
+                 -- , ("Firefox Dev", "firefox-bin")
                  ]
 
 --Makes setting the spacingRaw simpler to write. The spacingRaw module adds a configurable amount of space around windows.
@@ -259,7 +261,7 @@ myManageHook = composeAll
      -- chat apps
      , className =? "TelegramDesktop"               --> doShift ( myWorkspaces !! 2 )
      , className =? "Signal"                        --> doShift ( myWorkspaces !! 2 )
-     , className =? "discord"                       --> doShift ( myWorkspaces !! 2 )
+     , className =? "discord-canary"                       --> doShift ( myWorkspaces !! 2 )
      , className =? "lighcord"                      --> doShift ( myWorkspaces !! 2 )
 
      -- system apps
@@ -288,7 +290,7 @@ myManageHook = composeAll
 
 
      -- Float dialogs
-     , (className =? "firefox" <&&> resource =? "Dialog")           --> doFloat
+     , (className =? "librewolf" <&&> resource =? "Dialog")           --> doFloat
      , (className =? "Gucharmap" <&&> resource =? "Dialog")         --> doFloat 
      , (className =? "Gimp-2.10" <&&> resource =? "Dialog")         --> doFloat 
      , isFullscreen -->  doFullFloat
@@ -418,9 +420,9 @@ myKeys =
         , ("<XF86MonBrightnessDown>", spawn "lux -s 5")
 
     -- Controls for mocp music player (SUPER-u followed by a key)
-        , ("M-u l", spawn "mocp --next")
-        , ("M-u h", spawn "mocp --previous")
-        , ("M-u <Space>", spawn "mocp --toggle-pause")
+        , ("M-u l", spawn "cmus-remote -C --next")
+        , ("M-u h", spawn "cmus-remote -C --previous")
+        , ("M-u <Space>", spawn "cmus-remote -C --pause")
 
        ]
                         where nonNSP    = WSIs (return (\ws -> W.tag ws /= "NSP"))
@@ -452,11 +454,11 @@ main = do
         , logHook = workspaceHistoryHook <+> dynamicLogWithPP xmobarPP
                         { ppOutput = \x -> hPutStrLn xmproc0 x                          -- xmobar on monitor 1
                         -- >> hPutStrLn xmproc1 x                          -- xmobar on monitor 2
-                        , ppCurrent = xmobarColor "#c3e88d" "" . wrap "[" "]" -- Current workspace in xmobar
-                        , ppVisible = xmobarColor "#c3e88d" "" .clickable               -- Visible but not current workspace
-                        , ppHidden = xmobarColor "#82ABAF" "" . wrap "*" "" .clickable  -- Hidden workspaces in xmobar
-                        , ppHiddenNoWindows = xmobarColor "#F07178" "" .clickable      -- Hidden workspaces (no windows)
-                        , ppTitle = xmobarColor "#d0d0d0" "" . shorten 120     -- Title of active window in xmobar
+                        , ppCurrent = xmobarColor "#ABE9B3" "" . wrap "[" "]" -- Current workspace in xmobar
+                        , ppVisible = xmobarColor "#B5E8E0" "" .clickable               -- Visible but not current workspace
+                        , ppHidden = xmobarColor "#f28fad" "" . wrap "*" "" .clickable  -- Hidden workspaces in xmobar
+                        , ppHiddenNoWindows = xmobarColor "#f28fad" "" .clickable      -- Hidden workspaces (no windows)
+                        , ppTitle = xmobarColor "#f28fad" "" . shorten 120     -- Title of active window in xmobar
                         , ppSep =  "<fc=#666666> | </fc>"                     -- Separators in xmobar
                         , ppUrgent = xmobarColor "#C45500" "" . wrap "!" "!"  -- Urgent workspace
                         , ppExtras  = [windowCount]                           -- # of windows current workspace

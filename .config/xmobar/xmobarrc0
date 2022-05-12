@@ -7,9 +7,9 @@ Config {font = "xft:Ubuntu:weight=bold:pixelsize=11:antialias=true:hinting=true"
                            , "xft:FontAwesome:pixelsize=12"
                            , "xft:FontAwesome:pixelsize=12"
                            ]
-       , bgColor = "#282c34"
+       , bgColor = "#1e1e28"
        , fgColor = "#ff6c6b"
-       , position = Static { xpos = 0 , ypos = 0, width = 1920, height = 22 }
+       , position = Static { xpos = 0 , ypos = 1058, width = 1920, height = 22 }
        , lowerOnStart = True
        , hideOnStart = False
        , allDesktops = True
@@ -17,7 +17,7 @@ Config {font = "xft:Ubuntu:weight=bold:pixelsize=11:antialias=true:hinting=true"
        , iconRoot = "$HOME/.xmonad/xpm/"  -- default: "."
        , commands = [
                     -- Time and date
-                      Run Network "wlp3s0" ["-L","0","-H","32","--normal","green","--high","green"] 10
+                      Run Network "enp3s0" ["-L","0","-H","32","--normal","green","--high","green"] 10
                     , Run Date "<fn=2>\xf017</fn> %a %b %d %Y (%H:%M:%S) " "date" 10
                       -- Cpu usage in percent
                     , Run Cpu ["-t", "<fn=2>\xf2db</fn>  (<total>%)","-H","50","--high","red"] 20
@@ -25,7 +25,9 @@ Config {font = "xft:Ubuntu:weight=bold:pixelsize=11:antialias=true:hinting=true"
                     , Run Memory ["-t", "<fn=2>\xf233</fn>  (<usedratio>%)"] 20
                     , Run UnsafeStdinReader
                     , Run Com "/bin/bash" ["-c", "~/.xmonad/scripts/spot-playing.sh"] "spotify" 100
+                    , Run Com "/home/dymdym/.config/xmobar/trayer-padding-icon.sh" [] "trayerpad" 20
                     ]
        , sepChar = "%"
        , alignSep = "}{"
-       , template = " <action=`scrot`><fc=#686de1><fn=2></fn></fc></action>  <fc=#666666>|</fc> %UnsafeStdinReader%}{<fc=#77DD77><action=`spotify`>%spotify%</action></fc> <fc=#666666>|</fc> <fc=#77DD77><action=`alacritty -e htop`>%wlp3s0%</action></fc>  <fc=#666666>|</fc> <fc=#ecbe7b><action=`alacritty -e htop`>%cpu%</action></fc> <fc=#666666>|</fc>  <fc=#ff6c6b><action=`alacritty -e htop`>%memory%</action></fc> <fc=#666666>|</fc> <fc=#46d9ff>%date%</fc>                         "
+       , template = " <action=`~/.config/rofi/bin/applet_powermenu`><fc=#96cdfb><fn=2></fn></fc></action> <fc=#666666>|</fc> %UnsafeStdinReader%}{<fc=#abe9b3><action=`applet_mpd`>%spotify%</action></fc> <fc=#666666>|</fc> <fc=#fae3b0><action=`alacritty -e htop`>%enp3s0%</action></fc>  <fc=#666666>|</fc> <fc=#f8bd96><action=`alacritty -e htop`>%cpu%</action></fc> <fc=#666666>|</fc>  <fc=#f28fad><action=`alacritty -e htop`>%memory%</action></fc> <fc=#666666>|</fc> <fc=#89dceb>%date%</fc> %trayerpad%"
+}
